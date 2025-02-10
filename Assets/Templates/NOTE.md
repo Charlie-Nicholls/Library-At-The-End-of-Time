@@ -1,0 +1,96 @@
+<%*
+// ###########################################################
+//                        Helper Functions
+// ###########################################################
+
+// Convert string to camelCase
+function toCamelCase(str) {
+  return str
+    .replace(/(?:^\w|[A-Z]|\b\w|\s+|[-_])/g, (match, index) =>
+      index === 0 ? match.toLowerCase() : match.toUpperCase()
+    )
+    .replace(/[\s-_]+/g, '');
+}
+
+// Get next session number
+function nextNumber() {
+  const sessionRegex = /^Session Notes\/Chapter (\d+)/;
+  const files = this.app.vault.getMarkdownFiles()
+    .reduce((maxNumber, file) => Math.max(maxNumber, (file.path.match(sessionRegex) || [])[1] || 0), 0) + 1;
+  
+  return files < 10 ? '0' + files : files.toString();
+}
+
+// ###########################################################
+//                        Main Code Section
+// ###########################################################
+
+// Call modal form & declare variables
+const result = await MF.openForm('NOTE');
+const date = result.Date.value;
+const title = result.Title.value;
+const number = nextNumber();
+const prevnumber = number - 1;
+const name = `Chapter ${number}`;
+const prevname = `Chapter ${number}`;
+
+if (result.status === 'ok') {
+
+    // Rename file & open in new tab; Fire toast notification
+    await tp.file.rename(name);
+    await app.workspace.getLeaf(true).openFile(tp.file.find_tfile(name));
+    new Notice().noticeEl.innerHTML = `<span style="color: green; font-weight: bold;">Finished!</span><br>New note <span style="text-decoration: underline;">${name}</span> added`;
+
+} else {
+
+    // Fire toast notification & exit templater
+    new Notice().noticeEl.innerHTML = `<span style="color: red; font-weight: bold;">Cancelled:</span><br>Session note has not been added`;
+    return;
+}
+_%>
+
+---
+type: notes
+date: <% date %>
+displayLink: "[[<% name %>]]"
+alias: "<% title %>"
+chapter: <% number %>
+---
+
+![[session.png|banner]]
+###### Chapter `=this.chapter`: `=this.alias`
+<span class="sub2">:FasCalendar: `=this.date`</span>
+___
+
+> [!column|flex 3]
+>>[!info|flex]- PC's:
+>> - [[Dendrin]]
+>> - [[Nivea]]
+>> - [[Clickity Clackity]]
+>> - [[Dreisfor]]
+> 
+>> [!info|flex]- NPCS:
+>> - [[Characters]]
+>
+>> [!example|flex]- LOCATIONS:
+>> - [[Locations]]
+>
+>> [!important|flex]- QUESTS:
+>> - [[Quests]]
+
+---
+
+### Plan
+> #### Formalities
+> - [ ] 
+
+> [!info|clean]- Recap
+> ![[<% prevnname %>#Summary]]
+
+### Notes
+- Live notes from the session here.
+
+### Summary
+- Summary of the important points from the session here.
+
+

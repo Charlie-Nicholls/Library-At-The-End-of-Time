@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Huck#Huck]]"
 ---
 ###### Huck
-<span class="sub2">:FasMapLocationDot: [[Compendium/Atlas/Material Plane/Toril/Faerûn/The Badlands old/Flintfall/Flintfall#Flintfall]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Compendium/Atlas/Material Plane/Toril/Faerûn/The Badlands old/Flintfall/Flintfall#Flintfall]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

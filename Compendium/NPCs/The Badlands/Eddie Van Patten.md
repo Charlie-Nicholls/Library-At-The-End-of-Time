@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Eddie Van Patten#Eddie Van Patten]]"
 ---
 ###### Eddie Van Patten
-<span class="sub2">:FasMapLocationDot: [[The Badlands old#The Badlands]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Hostile </span>
+<span class="sub2">:FasMapLocationDot: [[The Badlands old#The Badlands]] | :FasHeartPulse: Hostile </span>
 ___
 
 > [!infobox|no-t right]

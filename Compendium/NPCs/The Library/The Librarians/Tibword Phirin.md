@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Tibword Phirin#Tibword Phirin]]"
 ---
 ###### Tibword Phirin
-<span class="sub2">:FasMapLocationDot: [[The Library#The Library]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Unknown </span>
+<span class="sub2">:FasMapLocationDot: [[The Library#The Library]] | :FasHeartPulse: Unknown </span>
 ___
 
 > [!infobox|no-t right]

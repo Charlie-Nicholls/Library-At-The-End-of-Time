@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Groch Furbog-Smith#Groch Furbog-Smith]]"
 ---
 ###### Groch Furbog-Smith
-<span class="sub2">:FasMapLocationDot: [[The Library#The Library]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[The Library#The Library]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

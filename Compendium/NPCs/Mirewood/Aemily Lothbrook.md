@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Aemily Lothbrook#Aemily Lothbrook]]"
 ---
 ###### Aemily Lothbrook
-<span class="sub2">:FasMapLocationDot: [[Mirewood#Mirewood]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Hostile </span>
+<span class="sub2">:FasMapLocationDot: [[Mirewood#Mirewood]] | :FasHeartPulse: Hostile </span>
 ___
 
 > [!infobox|no-t right]

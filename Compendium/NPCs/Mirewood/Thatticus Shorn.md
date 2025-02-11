@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Thatticus Shorn#Thatticus Shorn]]"
 ---
 ###### Thatticus Shorn
-<span class="sub2">:FasMapLocationDot: [[Mirewood#Mirewood]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Hostile </span>
+<span class="sub2">:FasMapLocationDot: [[Mirewood#Mirewood]] | :FasHeartPulse: Hostile </span>
 ___
 
 > [!infobox|no-t right]

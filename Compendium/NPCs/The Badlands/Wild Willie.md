@@ -6,7 +6,7 @@ displayLink: "[[Wild Willie#Wild Willie]]"
 aliases: William Wilde
 ---
 ###### Wild Willie
-<span class="sub2">:FasMapLocationDot: [[The Badlands#The Badlands]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Hostile </span>
+<span class="sub2">:FasMapLocationDot: [[The Badlands#The Badlands]] | :FasHeartPulse: Hostile </span>
 ___
 
 > [!infobox|no-t right]

@@ -5,7 +5,7 @@ locations:
 displayLink: "[[John Wilde#John Wilde]]"
 ---
 ###### John Wilde
-<span class="sub2">:FasMapLocationDot: [[Eastwood#Eastwood]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Eastwood#Eastwood]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

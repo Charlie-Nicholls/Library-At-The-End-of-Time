@@ -50,7 +50,7 @@ status: <% status %>
 Quest description here...
 
 ### Quest Giver
-[[Character]] or [[Organisation]]
+[[<% npc %>]]
 
 ### Objectives
  - [ ] Objective

@@ -5,7 +5,7 @@ locations:
 displayLink: "[[The Trickster#The Trickster]]"
 ---
 ###### The Trickster
-<span class="sub2">:FasMapLocationDot: [[The Library#The Library]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Unknown </span>
+<span class="sub2">:FasMapLocationDot: [[The Library#The Library]] | :FasHeartPulse: Unknown </span>
 ___
 
 > [!infobox|no-t right]

@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Sylvar Lothbrook#Sylvar Lothbrook]]"
 ---
 ###### Sylvar  Lothbrook
-<span class="sub2">:FasMapLocationDot: [[Mirewood#Mirewood]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Friendly </span>
+<span class="sub2">:FasMapLocationDot: [[Mirewood#Mirewood]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

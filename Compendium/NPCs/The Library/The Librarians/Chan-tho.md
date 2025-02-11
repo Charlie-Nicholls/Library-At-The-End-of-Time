@@ -5,7 +5,7 @@ locations:
 displayLink: "[[Chan-tho#Chan-tho]]"
 ---
 ###### Chan-tho
-<span class="sub2">:FasMapLocationDot: [[The Library#The Library]]&nbsp;&nbsp;|&nbsp;&nbsp;:FasHeartPulse: Neutral </span>
+<span class="sub2">:FasMapLocationDot: [[The Library#The Library]] | :FasHeartPulse: Neutral </span>
 ___
 
 > [!infobox|no-t right]

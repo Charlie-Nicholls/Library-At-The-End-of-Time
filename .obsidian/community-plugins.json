@@ -15,5 +15,7 @@
   "global-search-and-replace",
   "pinned-notes",
   "obsidian-leaflet-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "share-note",
+  "image-window"
 ]

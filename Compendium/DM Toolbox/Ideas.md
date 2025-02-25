@@ -72,3 +72,8 @@ ___
 - [[Dreisfor's Adaptable Gun]]
 	- Scale damage with level
 	- Need kits to use certain damage types, e.g. poisoners kit for poison
+
+### Other
+
+- Go to a settlement where the locals don't speak common, only a language a non party face speaks so they have to be a face for a while. 
+	- Could either just be a secluded settlement or something like a former trading hub that was cursed by a powerful fey by taking away their ability to speak common, crippling their trade economy

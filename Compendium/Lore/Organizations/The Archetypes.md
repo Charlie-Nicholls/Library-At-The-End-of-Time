@@ -43,3 +43,4 @@ The Archetypes are manifestations of character tropes in story. Ranking above [[
 - [[The Damsel]]
 - [[The Mentor]]
 - [[The Monster]]
+- [[The Narrator]]

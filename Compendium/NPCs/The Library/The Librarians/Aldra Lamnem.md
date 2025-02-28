@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[The Library]]"
 displayLink: "[[Aldra Lamnem#Aldra Lamnem]]"
+alias: "Aldra"
 ---
 ###### Aldra Lamnem
 <span class="sub2">:FasMapLocationDot: [[The Library#The Library]] | :FasHeartPulse: Neutral </span>

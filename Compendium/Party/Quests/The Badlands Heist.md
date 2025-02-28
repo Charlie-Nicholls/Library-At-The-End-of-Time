@@ -34,15 +34,22 @@ Travel to [[The Badlands]] and retrieve the book [[Practical Magichemsitry]] fro
 >	"A fairly simple job to start you with. Huck is a sheriff at the town of Flintfall, he borrowed Practical Magichemsitry by Professor Rumble McTobble to perform some simple repairs and is a couple days late on returning it. They've had to borrow that book a few times and never been any trouble, probably just been busy."
 
 ### Objectives
+#### The Train Heist
  - [x] Retrieve [[Practical Magichemsitry]] and return it to [[The Library]]
+#### The Last Chance Saloon
+ - [ ] Retrieve the missing page of [[Practical Magichemsitry]]
+ - [ ] Minimize damage to timeline from [[Eddie Van Patten]] having the pages
+ - [ ] Find out what you can about [[The Editors]]
+ - [ ] ([[Dendrin]]) Ensure [[Wild Willie|William Wilde]] dies
+ - [ ] ([[Dendrin]]) Stop the others from reporting any information about [[The Editors]]
 
 ### Stages
-#### Part 1
+#### The Train Heist
 - [x] Travel to [[Flintfall]]
 - [x] Meet with [[Huck]]
 - [x] Make a Heist plan
 - [x] Retrieve [[Practical Magichemsitry]] from the train
-#### Part 2
+#### The Last Chance Saloon
 - [ ]
 
 ### Index

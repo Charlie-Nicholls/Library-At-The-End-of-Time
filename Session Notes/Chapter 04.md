@@ -49,7 +49,9 @@ ___
 
 > #### Return
 > - If there's time left in the session, on return have them greeted by [[Tibword Phirin]], [[Aldra Lamnem]] and [[The Sage]]
+> 
 > ![[Aldra Lamnem#^IntroText|clean collapse nlk]]
+> 
 > ![[The Sage#^IntroText|clean collapse nlk]]
 > - On their return, Tibword proclaims joyfully that he told them they'd be fine and they were more competent than they were given credit for
 > - Aldra is against it but The Sage decides they are competent enough to finish off the [[The Badlands Heist]]

@@ -3,6 +3,7 @@ type: npc
 locations:
  - "[[The Library]]"
 displayLink: "[[Tibword Phirin#Tibword Phirin]]"
+alias: "Tibword"
 ---
 ###### Tibword Phirin
 <span class="sub2">:FasMapLocationDot: [[The Library#The Library]] | :FasHeartPulse: Unknown </span>

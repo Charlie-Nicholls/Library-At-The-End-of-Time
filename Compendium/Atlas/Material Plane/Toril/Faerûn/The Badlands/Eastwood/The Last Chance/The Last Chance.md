@@ -8,7 +8,6 @@ displayLink: "[[The Last Chance#The Last Chance]]"
 
 ![[banner.jpg|banner]]
 
----
 ###### The Last Chance
 <span class="sub2">:FasCircleQuestion: Saloon</span>
 

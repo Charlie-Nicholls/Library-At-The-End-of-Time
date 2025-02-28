@@ -31,10 +31,16 @@ ___
 
 ### Plan
 > #### Formalities
-> - [ ] 
+> - [ ] Minor retcon with Trickster guiding [[Dendrin]] to [[Potion of Ghost Step]], using illusions rather than speaking in his mind
+> - [ ] Remind Owen he has inspiration for being a horror movie cliché & George for his nat 2s
 
-> [!info|clean]- Recap
+> [!info|clean]- Chapter 04 Recap 
 > ![[Chapter 04#Summary]]
+
+> [!info|clean]- Chapter 01 Recap
+> ![[Chapter 01#Summary]]
+
+
 
 ### Notes
 - Live notes from the session here.

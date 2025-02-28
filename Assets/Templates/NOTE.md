@@ -21,6 +21,14 @@ function nextNumber() {
   return files < 10 ? '0' + files : files.toString();
 }
 
+function prevNumber() {
+  const sessionRegex = /^Session Notes\/Chapter (\d+)/;
+  const files = this.app.vault.getMarkdownFiles()
+    .reduce((maxNumber, file) => Math.max(maxNumber, (file.path.match(sessionRegex) || [])[1] || 0), 0);
+  
+  return files < 10 ? '0' + files : files.toString();
+}
+
 // ###########################################################
 //                        Main Code Section
 // ###########################################################
@@ -30,9 +38,9 @@ const result = await MF.openForm('NOTE');
 const date = result.Date.value;
 const title = result.Title.value;
 const number = nextNumber();
-const prevnumber = number - 1;
+const prevnumber = prevNumber();
 const name = `Chapter ${number}`;
-const prevname = `Chapter ${number}`;
+const prevname = `Chapter ${prevnumber}`;
 
 if (result.status === 'ok') {
 
@@ -85,7 +93,7 @@ ___
 > - [ ] 
 
 > [!info|clean]- Recap
-> ![[<% prevnname %>#Summary]]
+> ![[<% prevname %>#Summary]]
 
 ### Notes
 - Live notes from the session here.

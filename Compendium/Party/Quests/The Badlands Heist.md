@@ -34,7 +34,7 @@ Travel to [[The Badlands]] and retrieve the book [[Practical Magichemsitry]] fro
 >	"A fairly simple job to start you with. Huck is a sheriff at the town of Flintfall, he borrowed Practical Magichemsitry by Professor Rumble McTobble to perform some simple repairs and is a couple days late on returning it. They've had to borrow that book a few times and never been any trouble, probably just been busy."
 
 ### Objectives
- - [ ] Retrieve [[Practical Magichemsitry]] and return it to [[The Library]]
+ - [x] Retrieve [[Practical Magichemsitry]] and return it to [[The Library]]
 
 ### Stages
 #### Part 1
@@ -42,27 +42,29 @@ Travel to [[The Badlands]] and retrieve the book [[Practical Magichemsitry]] fro
 - [x] Meet with [[Huck]]
 - [x] Make a Heist plan
 - [x] Retrieve [[Practical Magichemsitry]] from the train
+#### Part 2
+- [ ]
 
 ### Index
 - [[#The Train Heist]]
+- [[#The Last Chance Saloon]]
 
 ### Plan
 
-###### Overview
+# Overview
 
-> ### Obstacles
 >  - [[Eddie Van Patten]] beat them to [[Huck]], tied him and and stole [[Practical Magichemsitry]]
 >  - Pages detailing how to produce magically enhanced gunpowder have been torn out
 >  - Barrels of gunpowder will be set to explode at [[The Last Chance]], killing [[Wild Willie|William Wilde]], stopping him from becoming [[Wild Willie]] and [[John Wilde]] a prospective politician who opposes [[Eddie Van Patten]] 
 
 ---
 
-###### The Train Heist
+# The Train Heist
 
-- Huck lays out 3 ways the train could be boarded
-	- Obtaining disguises and boarding the train before it leaves [[Flintfall]]
-	- Jumping onto the train from above when it passes under Venompoint Bridge and leaves [[Flintfall]]
-	- Chasing after the train on horseback
+> - Huck lays out 3 ways the train could be boarded
+> 	- Obtaining disguises and boarding the train before it leaves [[Flintfall]]
+> 	- Jumping onto the train from above when it passes under Venompoint Bridge and leaves [[Flintfall]]
+> 	- Chasing after the train on horseback
 
 > ### Flintfall Disguises
 > **Pros:** Quiet and could avoid fighting | **Cons:** If discovered a large fight will break out
@@ -117,3 +119,6 @@ Travel to [[The Badlands]] and retrieve the book [[Practical Magichemsitry]] fro
 > - Inside the vault is over 50,000 gp, [[Practical Magichemsitry]], and a note that reads: "A book detailing the production of the necessary explosives is currently possessed by [[Huck]], the Sheriff of [[Flintfall]]. Then proceed to the Last Chance"
 
 ---
+
+# The Last Chance Saloon
+

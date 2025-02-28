@@ -49,7 +49,7 @@ The [[Tome of Spirits]] disappeared from [[The Library]] in chapters passed, but
 
 ### Plan
 
-###### Mystery of Mirewood
+# Mystery of Mirewood
 
 > ### Arrival
 > 
@@ -145,7 +145,7 @@ The [[Tome of Spirits]] disappeared from [[The Library]] in chapters passed, but
 
 ---
 
-###### Hunt for the Lost Daughter
+# Hunt for the Lost Daughter
 
 >	As you exit the catacombs of the Old Mirewood Church, you are greeted with the sight of dozens of ghostly figures moving about the town, embracing each other in joyous celebration of being released from their bonds. Over time, each ghost disappears, moving on and leaving the mortal plane. However, one family continues to wander, faces etched with concern.
 
@@ -231,7 +231,7 @@ The [[Tome of Spirits]] disappeared from [[The Library]] in chapters passed, but
 
 ---
 
-###### Vortex of Souls
+# Vortex of Souls
 
 - [x] **Level up to level 3**
 

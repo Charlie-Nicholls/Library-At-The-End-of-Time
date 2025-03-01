@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPerson",
+      "RiSafeFill",
       "FasCircleExclamation",
       "FasImage",
       "FasUserPen",
@@ -13,9 +15,7 @@
       "LiLibraryBig",
       "FasCircleHalfStroke",
       "RiFileUserFill",
-      "FasLightbulb",
-      "FasBook",
-      "FasShirt"
+      "FasLightbulb"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -149,6 +149,5 @@
   "Session Notes/Chapter 03.md": "LiNotepadText",
   "Session Notes/Chapter 04.md": "LiNotepadText",
   "Compendium/NPCs/The Library/The Archetypes/The Sage.md": "FasUserPen",
-  "Compendium/DM Toolbox/DM Tips.md": "FasCircleExclamation",
   "Session Notes/Chapter 05.md": "LiNotepadText"
 }

@@ -57,7 +57,7 @@ tooltip: external character sheet
 style: default
 action: {type: open, link: https://app.roll20.net/campaigns/details/18822428/the-library-at-the-end-of-time, newTab: true}
 
-# Profile> 
+# Profile
 
 > [!recite|clean no-t]
 >	Introduction for players
@@ -66,7 +66,8 @@ action: {type: open, link: https://app.roll20.net/campaigns/details/18822428/the
 ### Description
 Description
 
-### Motivations- List of Motivations
+### Motivations
+- List of Motivations
 
 ### Magic Items / Abilities
 - None

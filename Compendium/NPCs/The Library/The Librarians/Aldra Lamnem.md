@@ -34,7 +34,7 @@ ___
 # Profile
 
 > [!recite|clean no-t]
->	Aldra is tall, with curly red hair and skin with a slight golden tint. She wears formal clothes and glasses with lenses so thin you aren't completely sure she isn't just wearing them for the aesthetic.
+>	Aldra is a tall, middle aged aasimar, with curly red hair and skin with a slight golden tint. She wears formal clothes and glasses with lenses so thin you aren't completely sure she isn't just wearing them for the aesthetic.
 >^IntroText
 
 ### Description

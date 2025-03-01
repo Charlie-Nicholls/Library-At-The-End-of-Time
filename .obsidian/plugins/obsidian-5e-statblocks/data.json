@@ -620,6 +620,113 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Violet",
+      {
+        "image": null,
+        "name": "Violet",
+        "source": "CritterDB",
+        "type": "Humanoid (half-elf)",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 33,
+        "hit_dice": "6d8 + 6",
+        "ac": 13,
+        "speed": "30 ft.",
+        "stats": [
+          12,
+          16,
+          12,
+          10,
+          14,
+          11
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "darkvision 60 ft.",
+        "languages": "Common, Elvish",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "Fey Ancestry",
+            "desc": "the violet has advantage on saving throws against being charmed, and magic can't put the violet to sleep."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Dagger",
+            "desc": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage in melee, or 5 (1d4 + 3) piercing damage at range."
+          },
+          {
+            "name": "Multiattack",
+            "desc": "Violet makes two Dagger attacks."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "Van Patten Thug",
+      {
+        "image": null,
+        "name": "Van Patten Thug",
+        "source": "CritterDB",
+        "type": "Humanoid (human)",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Chaotic Neutral",
+        "hp": 26,
+        "hit_dice": "4d8 + 8",
+        "ac": 13,
+        "speed": "30 ft.",
+        "stats": [
+          16,
+          15,
+          15,
+          9,
+          11,
+          11
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "strength": 5
+          },
+          {
+            "constitution": 4
+          },
+          {
+            "wisdom": 2
+          }
+        ],
+        "skillsaves": [],
+        "senses": "",
+        "languages": "Common",
+        "cr": 0.5,
+        "traits": [],
+        "actions": [
+          {
+            "name": "Longsword",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 slashing damage."
+          },
+          {
+            "name": "Crossbow, hand",
+            "desc": "Ranged Weapon Attack: +2 to hit, range 40/80 ft., one target. Hit: 4 piercing damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
     ]
   ],
   "defaultLayouts": {

@@ -139,3 +139,48 @@ Travel to [[The Badlands]] and retrieve the book [[Practical Magichemsitry]] fro
 >> [!recite|clean no-t]
 >>	Nestled amongst the commerce buildings of downtown Eastwood, sitting at the corner where two streets intersect, is a tired, two story wooden building. A balcony and porch wrap around two of its sides, with a main entrance in the corner facing the intersection, a pair of small, chest height doors swaying in the doorway. A sign that reads "The Last Chance" is nailed above the entrance, into the wooden frame of the balcony.
 > - When 
+> 
+>
+> **1: Common Room**
+>> [!recite|clean no-t]
+>>	The double doors to this establishment swing open as you enter. The lively saloon smells of mildew and alcohol. Patrons sit around the tables and at the bar drinking. And an uppity tune is plinked away on a piano. Two armed mercenaries flank the entrance and aren't too worried by your arrival. A staircase ascends to a second level directly to the left of you, and an entrance to a back room can be seen behind the bar. On the stage a goblin talks to a tall man wearing a suit distinctly nicer than anything anyone else is wearing, a further two mercenaries stand by the stage.
+> - When they first arrive they will see the workers moving tables around, and a couple taking something heavy up the stairs. On a DC 15 Wisdom (Perception) check, they can see this is a safe.
+> - Anyone attempting to get past a Mercenary can do so with a DC 15 Charisma (Deception) check. But if Eddie/Klot sees this he will follow them
+> - Checking beneath the tables and succeeding on a DC 15 Intelligence (Investigation) check will reveal runes placed there. Checking beneath the stage will find a plethora of these runes with no check required.
+> - Further succeeding on a DC 15 Intelligence (Arcana) check will reveal these runes are spatial runes, do not seem that powerful or harmful. A DC 20 check will reveal these runes can be remote activated to create small portals, only work at short range, usually used in commercial establishments to more efficiently pass messages or small items between floors or from backroom to storefront.
+> - Mercenaries prevent these investigations unless they can be distracted or the check can be done with sufficient stealth.
+> - The **Van Patten Thugs** will not prevent the investigation, but will draw attention to it if they notice. Either calling them out, alerting the guards, or telling Eddie what they saw.
+> - 
+>
+> **Klot**
+>> [!recite|clean no-t]
+>>	A goblin with a wide brimmed hat and wider ears pointing out from his scrunched up face. He wears fancy white cowboy boots and has a flask strapped to his belt from which he can frequently be seen sipping. 
+> - [[Klot]] is secretly [[Eddie Van Patten]], using a [[Potion of Alter Self]] to disguise himself as [[Klot]]. This potion is in his flask, and he frequently drinks from it to maintain his form.
+> - Have them overhear him say to John "My brother Blif is a big fan of yours" (A mistake on Eddie's part, Blif is his sister's name)
+> - [[Klot]] has on him a key with 'SBS' engraved on it. Fits the [[Safe Bang Safe]].
+> - When Klot is not around, **Van Patten Thugs** have -3 to perception checks.
+>
+>**2: Back Room**
+>> [!recite|clean no-t]
+>>	This back room contains crates filled with bottles of drinks, casks of ale, and a washing area with a pump for water.
+> - The bartender keeps a light crossbow with 20 bolts under a shelf in this room. It can be found with a DC 10 Intelligence (Investigation) check. If a fight breaks out the bartender will retrieve this weapon.
+>
+> **3: Klot's Office**
+>> [!recite|clean no-t]
+>>	This small room features a desk, a candle-lit lamp, scattered papers and sealed boxes of various bottles.
+> - If Klot is not in this room it is locked and can be opened with a DC 14 Dexterity thieves' tools check or broken down with a DC 16 Strength (Athletics) check.
+> - The room is mostly full of crates of alcohol, letters to clients and his family. Open on the desk is a recently opened letter from his brother Klunk in which he talks about their mother being sick, and that he should invite their sister Blif to the campaign stop he's hosting for John Wilde as she's a big fan of his.
+> - The drawer in the desk has a false bottom which can be found on a successful DC 13 Intelligence (Investigation) check. Inside is a pouch with 348gp, 210sp, a small square of cheese and a deed to his home in Eastwood.
+> **3: Outfitted Loft**
+>> [!recite|clean no-t]
+>>	As you enter the room you hear scuffled shuffling sounds and whimpering coming from behind the desk on the far side of the room. To your left is a closed door leading to the balcony overlooking the street. In the centre of the room is a medium sized, heavy looking metal safe with a dial and key hole. On the front of the safe the brand name the "Safe Bang Securities" in an arc around a key.
+> - Violet guards the door to the loft at all times and will not let them in unless they can produce some evidence of being in Van Patten's employ and succeed on a DC 15 Charisma (Persuasion or Deception) check.
+> - Inside the room is the real [[Klot]], tied up and gagged behind his desk.
+> - On an Investigation or Perception check on the [[Safe Bang Safe]]:
+> 	- DC 10 A muffled ticking sound can be heard coming from within (Can also find on perception)
+> 	- DC 12 The dial doesn't want to move when fiddled with
+> 	- DC 15 The dial is moving very slowly on its own, currently on {number} and decreasing. Reasoning deduces it's only a display
+> 	- DC 20 The lock is unusual, a little fiddling about with it reveals it can be turned in either direction.
+> - Turning the lock clockwise detonates the bomb early, anticlockwise opens the door.
+> 	- Can be turned with a DC 15 thieves' tools check.
+> - Opening the safe successfully  

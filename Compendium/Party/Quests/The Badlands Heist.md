@@ -129,3 +129,13 @@ Travel to [[The Badlands]] and retrieve the book [[Practical Magichemsitry]] fro
 
 # The Last Chance Saloon
 
+> ### Arriving in [[Eastwood]]
+>> [!recite|clean no-t]
+>>	A polluted, overcast sky provides the backdrop for the city before you. Buildings made of brick, stone, and iron are shadowed by a tall cliff that wraps around the east half of the city, where an enormous waterfall covers everyone in a layer of mist. Carriages full of rich folk clatter by on paved roads beneath a large banner reading "Gordyn Alwhick for Mayor" with the facing of a middle aged man, cigar in mouth and two thumbs up. You are immediately hit with the stink of grime and mud. Welcome to Eastwood.
+> - Finding the saloon is easy enough by asking anyone around. The nearest person is a halfling called Bee, running an old pawn shop from which the players can potentially buy some supplies.
+> - If they ask about [[Eddie Van Patten]] she tells him her father Sanlos got into some bad business with him and owes him a large debt. If they tell her they are planning to thwart his plan, she gives them a 50% discount.
+
+> ### [[The Last Chance]] Saloon
+>> [!recite|clean no-t]
+>>	Nestled amongst the commerce buildings of downtown Eastwood, sitting at the corner where two streets intersect, is a tired, two story wooden building. A balcony and porch wrap around two of its sides, with a main entrance in the corner facing the intersection, a pair of small, chest height doors swaying in the doorway. A sign that reads "The Last Chance" is nailed above the entrance, into the wooden frame of the balcony.
+> - When 

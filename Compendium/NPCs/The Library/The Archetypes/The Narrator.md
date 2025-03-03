@@ -9,14 +9,18 @@ displayLink: "[[The Narrator]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgTheNarrator.jpg|350]]
+> 
+> | Form |
+> | :----: |
+> | :FasUser: Scheherazade | %% shuh·heh·ruh·zaad %%
 >
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasBriefcase: Job |  Archetype |
 > | :FasVenusMars: Gender | Gender Fluid |
 > | :FasUser: Race | Archetype |
-> | :FasClock: Age |  |
+> | :FasClock: Age | Unknown |
 >
 >> [!info]- STORYLINES
 >>```dataview

@@ -17,7 +17,7 @@ ___
 > | :RiSpeakFill: Passive Insight | 16 | 13 | 9 | 15 | 9 |
 
 ### Live Notes
-- 
+- Told them about the editor's note
 
 ### Session Note
 [[Chapter 05]]

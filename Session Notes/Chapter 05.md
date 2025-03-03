@@ -31,10 +31,10 @@ ___
 
 ### Plan
 > #### Formalities
-> - [ ] Minor retcon with Trickster guiding [[Dendrin]] to [[Potion of Ghost Step]], using illusions rather than speaking in his mind
-> - [ ] Remind Owen he has inspiration for being a horror movie cliché & George for his nat 2s
-> - [ ] Reminder that I will be sending out a thing to fill in before next time as I'd like to start personalising future adventurers more. So I'll send out a thing with questions about your character & such. Will also ask about whether you'd prefer to try a more regular schedule or keep it haphazard. Mention Demoqz.
-> - [ ] Scheduling, ask about when and where we can meet for James' game. Late march/april? more central location like James' or George's?
+> - [x] Minor retcon with Trickster guiding [[Dendrin]] to [[Potion of Ghost Step]], using illusions rather than speaking in his mind
+> - [x] Remind Owen he has inspiration for being a horror movie cliché & George for his nat 2s
+> - [x] Reminder that I will be sending out a thing to fill in before next time as I'd like to start personalising future adventurers more. So I'll send out a thing with questions about your character & such. Will also ask about whether you'd prefer to try a more regular schedule or keep it haphazard. Mention Demoqz.
+> - [x] Scheduling, ask about when and where we can meet for James' game. Late march/april? more central location like James' or George's?
 
 > [!info|clean]- Chapter 04 Recap 
 > ![[Chapter 04#Summary]]
@@ -77,7 +77,21 @@ ___
 > 	 - Gives him [[Wild-Life - The Mad Life of Wild Willie]], which [[Tibword Phirin|Tibword]] was protecting, but [[Abblesmith's Guide to the Badlands Desert]] has been found again so [[Dendrin]] is free to take it and read all about him.
 
 ### Notes
-- Live notes from the session here.
+- Told them about the editor's note
+- Obsession with lack of a toilet leads Nivea to find Violet guarding the upstairs, and Eddie being somewhat suspicious about the lack of one
+- Dendrin Climbs in through the window and steals letter
+- Realise there is a discrepancy in whether Blif is Klot's brother or sister but unsure what that means
+- Clickity turns into a spider and sneaks upstairs, finding the real Klot tied up upstairs
+- Nivea and Dendrin find runes hidden in the common room, but have no idea what they are
+- Klot goes upstairs, ready to leave through the balcony, but finds Clickity in the room ready to strike and runs out and hides in the bathroom
+- Violet attempts to tackle Dendrin as he runs past but fails.
+- Clickity non-lethals Eddie, his fake Potion of Alter Self wearing off in death revealing his true form.
+- Violet flees when she see's Eddie downed, knowing she won't be paid and the bomb is about to go off
+- Clickity & Dendrin try to get the plan out of Eddie, who keeps trying to convince them to open the safe
+- Use suggestion to get Eddie to open it, who takes the opportunity to set it off
+- Nivea notices the staff leave in the minutes before the explosion. Last second casts Darkness and runs and grabbles John, dragging him out to safety
+- Willie + many of the patrons are killed
+- Clickity & Dendrin kill Eddie before escaping out the balcony.
 
 ### Summary
 - Summary of the important points from the session here.

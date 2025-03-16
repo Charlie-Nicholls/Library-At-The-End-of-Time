@@ -20,7 +20,7 @@ displayLink: "[[The Belle of Orlea's]]"
 Description
 
 ### Map
->![[belleOfOrleas.png]]
+>![[mapBelleOfOrleas.png]]
 
 ---
 

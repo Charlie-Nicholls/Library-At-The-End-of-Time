@@ -80,13 +80,14 @@ Home of [[Vulmer Lothbrook]], [[Vianola Lothbrook]], [[Sylvar Lothbrook]] & [[Ae
 
 ![[Mirewood Church#^IntroText|clean collapse nlk]]
 
-- **[[Mirewood Church#Inside]]**
-- **[[Mirewood Church#Tower]]**
+**[[Mirewood Church#Inside]]**
+
+**[[Mirewood Church#Tower]]**
 
 ### Area 6: [[Mirewood Catacombs|Graveyard]]
 ![[Mirewood Catacombs#^IntroText|clean collapse nlk]]
 
-- **[[Mirewood Catacombs#Inside]]**
+**[[Mirewood Catacombs#Inside]]**
 
 ### Map
 

@@ -7,12 +7,16 @@ displayLink: "[[Encounter Design#Encounter Design]]"
 :RiToolsFill: DM Tool
 ___
 
-># Environment
+[8 tips to make your D&D boss fights LEGENDARY](https://www.youtube.com/watch?v=YUfmaDDc5Ho)
 
-># Enemies
->> ### Number
->> 
->> ### Motivation
->> 
->> ### Tactics
->> 
+Change legendary resistance so the boss can transfer effects onto minions
+
+# Environment
+
+# Enemies
+> ### Number
+> 
+> ### Motivation
+> 
+> ### Tactics
+> 

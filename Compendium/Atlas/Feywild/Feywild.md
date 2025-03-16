@@ -2,7 +2,7 @@
 type: plane
 displayLink: "[[Feywild#Feywild]]"
 ---
-![[feywild.webp|banner]]
+![[imgFeywild.webp|banner]]
 ###### Feywild
 <span class="sub2">:FasCircleHalfStroke: Plane of Existence</span>
 ___

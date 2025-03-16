@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSkull",
+      "FasBandage",
+      "FasDog",
+      "FasBuildingColumns",
       "FasPerson",
       "RiSafeFill",
       "FasCircleExclamation",
       "FasImage",
       "FasUserPen",
-      "LiNotepadText",
-      "LiLibraryBig",
-      "FasCircleHalfStroke",
-      "RiFileUserFill",
-      "FasLightbulb"
+      "LiNotepadText"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -151,5 +151,15 @@
   "Compendium/NPCs/The Library/The Archetypes/The Sage.md": "FasUserPen",
   "Session Notes/Chapter 05.md": "LiNotepadText",
   "Compendium/NPCs/The Badlands/Klot.md": "FasPerson",
-  "Compendium/NPCs/The Library/The Archetypes/The Narrator.md": "FasUserPen"
+  "Compendium/NPCs/The Library/The Archetypes/The Narrator.md": "FasUserPen",
+  "Session Notes/Chapter 06.md": "LiNotepadText",
+  "Compendium/Party/Quests/Museum Heist.md": "FasBuildingColumns",
+  "Compendium/NPCs/Wandering Museum": "FasBuildingColumns",
+  "Compendium/Atlas/Material Plane/Toril/Faerûn/Wandering Museum": "FasBuildingColumns",
+  "Compendium/NPCs/Wandering Museum/Dr Carda Halftusk.md": "FasPerson",
+  "Compendium/NPCs/Wandering Museum/Rinaldo Bardi.md": "FasPerson",
+  "Compendium/NPCs/Wandering Museum/Luca Lomeo.md": "FasPerson",
+  "Compendium/NPCs/Wandering Museum/Sphinx Statue.md": "FasDog",
+  "Compendium/NPCs/Wandering Museum/Florence the Cat.md": "FasPerson",
+  "Compendium/NPCs/Wandering Museum/Sekhemkare.md": "LiSkull"
 }

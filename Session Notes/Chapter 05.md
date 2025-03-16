@@ -2,7 +2,7 @@
 type: notes
 date: 2025-03-01
 displayLink: "[[Chapter 05]]"
-alias: "TBD"
+alias: "We Can't Find The Toilet"
 chapter: 05
 ---
 

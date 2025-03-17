@@ -19,22 +19,26 @@ ___
 >> - [[Dreisfor]]
 > 
 >> [!info|flex]- NPCS:
->> - [[Characters]]
+>> - [[The Trickster]]
+>> - [[Dr Carda Halftusk]]
+>> - [[Luca Lomeo]]
+>> - [[Rinaldo Bardi]]
+>> - [[Florence the Cat]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Locations]]
+>> - [[The Library]]
+>> - [[Wandering Museum]]
 >
 >> [!important|flex]- QUESTS:
->> - [[Quests]]
-
----
+>> - [[Museum Heist]]
 
 ### Plan
-> #### Formalities
+> [!recite|no-i nbrd] Formalities
 > - [ ] Decide on inspiration from last time
+> - [ ] Double check Owen can't do dnd next week + msg nathan
 > - [ ] Talk about dates for in person session
 
-> [!info|clean]- Recap
+> [!recite|clean]- Recap
 > ![[Chapter 05#Summary]]
 
 ### Notes

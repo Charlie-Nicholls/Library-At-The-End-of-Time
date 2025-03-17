@@ -34,10 +34,8 @@ ___
 >> [!important|flex]- QUESTS:
 >> - [[The Badlands Heist]]
 
----
-
 ### Plan
-> #### Formalities
+> [!recite|no-i nbrd] Formalities
 > - [x] In the 30mins before Owen arrives try to come up with your death scene and maybe some final words
 > - [x] Reminder that weapon mastery exists
 > - [x] Explain how Inspiration works

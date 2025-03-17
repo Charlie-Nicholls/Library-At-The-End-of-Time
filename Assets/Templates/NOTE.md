@@ -86,13 +86,11 @@ ___
 >> [!important|flex]- QUESTS:
 >> - [[Quests]]
 
----
-
 ### Plan
-> #### Formalities
+> [!recite|no-i nbrd] Formalities
 > - [ ] 
 
-> [!info|clean]- Recap
+> [!recite|clean]- Recap
 > ![[<% prevname %>#Summary]]
 
 ### Notes

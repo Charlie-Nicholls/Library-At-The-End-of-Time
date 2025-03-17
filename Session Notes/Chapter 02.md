@@ -30,12 +30,10 @@ ___
 >> [!important|flex]- QUESTS:
 >> - [[Baselisk Egg Retrieval]]
 
----
-
 ### Plan
 Owen's Session
 
-> [!info|clean]- Recap
+> [!recite|clean]- Recap
 > ![[Chapter 01#Summary]]
 
 ### Notes

@@ -39,6 +39,11 @@ ___
 ### Description
 Description
 
+#### Favourite forms:
+- Loki
+- Puck
+- Sisyphus
+
 ### Motivations
 - List of Motivations
 

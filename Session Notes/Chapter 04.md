@@ -32,22 +32,20 @@ ___
 >> [!important|flex]- QUESTS:
 >> - [[The Lost Spirits of Mirewood]]
 
----
-
 ### Plan
-> #### Formalities
+> [!recite|no-i nbrd] Formalities
 > - [x] Check Everyone has levelled up to level 3 and get ac/hp/init/passives
 > - [ ] Minor retcon with Trickster guiding [[Dendrin]] to [[Potion of Ghost Step]], using illusions rather than speaking in his mind
 > - [ ] Remind Owen he has inspiration for being a horror movie cliché
 > - [x] Remind them about lothbrook abilities
 
-> [!info|clean]- Recap
+> [!recite|clean]- Recap
 > ![[Chapter 03#Summary]]
 
-> #### Quest
-> [[The Lost Spirits of Mirewood#Vortex of Souls]]
+> [!recite|no-i clean] Quest: [[The Lost Spirits of Mirewood#Vortex of Souls]]
+> 
 
-> #### Return
+> [!recite|no-i nbrd] Return
 > - If there's time left in the session, on return have them greeted by [[Tibword Phirin]], [[Aldra Lamnem]] and [[The Sage]]
 > 
 > ![[Aldra Lamnem#^IntroText|clean collapse nlk]]

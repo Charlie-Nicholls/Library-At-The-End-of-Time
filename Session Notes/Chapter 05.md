@@ -36,26 +36,23 @@ ___
 >> [!important|flex]- QUESTS:
 >> - [[The Badlands Heist]]
 
----
-
 ### Plan
-> #### Formalities
+> [!recite|no-i nbrd] Formalities
 > - [x] Minor retcon with Trickster guiding [[Dendrin]] to [[Potion of Ghost Step]], using illusions rather than speaking in his mind
 > - [x] Remind Owen he has inspiration for being a horror movie cliché & George for his nat 2s
 > - [x] Reminder that I will be sending out a thing to fill in before next time as I'd like to start personalising future adventurers more. So I'll send out a thing with questions about your character & such. Will also ask about whether you'd prefer to try a more regular schedule or keep it haphazard. Mention Demoqz.
 > - [x] Scheduling, ask about when and where we can meet for James' game. Late march/april? more central location like James' or George's?
 
-> [!info|clean]- Chapter 04 Recap 
+> [!recite|clean]- Chapter 04 Recap 
 > ![[Chapter 04#Summary]]
 
-> [!info|clean]- Chapter 01 Recap
+> [!recite|clean]- Chapter 01 Recap
 > ![[Chapter 01#Summary]]
 
-> #### Quest
-> [[The Badlands Heist#The Last Chance Saloon]]
+> [!recite|no-i clean] Quest: [[The Badlands Heist#The Last Chance Saloon]]
 
-> #### Return
-> ##### Talking to The Authors
+> [!recite|no-i nbrd] Return
+>> [!recite|no-i clean] Talking to The Authors
 > - On return they are greeted by [[Tibword Phirin]], [[Aldra Lamnem]] and [[The Sage]]
 > 
 > ![[Aldra Lamnem#^IntroText|clean collapse nlk]]
@@ -72,7 +69,7 @@ ___
 > 	- Timeline disruptions causes stories to change and this can cause changes in [[The Library]], some small, some big, some dangerous
 > 	- They would also like any information they can find about [[The Editors]]
 > 
->  ##### Talking to The Trickster
+>> [!recite|no-i clean] Talking to The Trickster
 >  - Meanwhile, [[Dendrin]] will go to his room but find himself lost before [[The Trickster]] appears to talk to him. Go to separate voice channel.
 >  - They will ask him to join [[The Editors]] and give him the following information and instructions:
 > 	 - [[The Authors]] are the group who've been in charge of [[The Library]] and claim to speak on behalf of the three gods of [[The Library]], [[Actus]], [[Cognus]] and [[Mythos]], but [[The Editors]] doubt this.

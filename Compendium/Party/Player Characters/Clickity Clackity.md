@@ -9,6 +9,7 @@ race: Thri'Keen
 class: Druid
 subClass: Circle of the Sea
 cover: "Assets/Images/Party/imgClickityClackity.png"
+alias: "Clickity"
 ---
 
 ###### Clickity Clackity

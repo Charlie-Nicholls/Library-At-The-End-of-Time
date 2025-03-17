@@ -31,7 +31,8 @@ ___
 
 ### Plan
 > #### Formalities
-> - [ ] 
+> - [ ] Decide on inspiration from last time
+> - [ ] Talk about dates for in person session
 
 > [!info|clean]- Recap
 > ![[Chapter 05#Summary]]

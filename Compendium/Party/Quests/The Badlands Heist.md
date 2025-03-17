@@ -37,11 +37,11 @@ Travel to [[The Badlands]] and retrieve the book [[Practical Magichemsitry]] fro
 #### The Train Heist
  - [x] Retrieve [[Practical Magichemsitry]] and return it to [[The Library]]
 #### The Last Chance Saloon
- - [ ] Retrieve the missing page of [[Practical Magichemsitry]]
- - [ ] Minimize damage to timeline from [[Eddie Van Patten]] having the pages
- - [ ] Find out what you can about [[The Editors]]
- - [ ] ([[Dendrin]]) Ensure [[Wild Willie|William Wilde]] dies
- - [ ] ([[Dendrin]]) Stop the others from reporting any information about [[The Editors]]
+ - [x] Retrieve the missing page of [[Practical Magichemsitry]]
+ - [ ] Minimize damage to timeline from [[Eddie Van Patten]] having the pages (Failed)
+ - [ ] Find out what you can about [[The Editors]] (Failed)
+ - [x] ([[Dendrin]]) Ensure [[Wild Willie|William Wilde]] dies
+ - [x] ([[Dendrin]]) Stop the others from reporting any information about [[The Editors]]
 
 ### Stages
 #### The Train Heist
@@ -138,8 +138,6 @@ Travel to [[The Badlands]] and retrieve the book [[Practical Magichemsitry]] fro
 > ### [[The Last Chance]] Saloon
 >> [!recite|clean no-t]
 >>	Nestled amongst the commerce buildings of downtown Eastwood, sitting at the corner where two streets intersect, is a tired, two story wooden building. A balcony and porch wrap around two of its sides, with a main entrance in the corner facing the intersection, a pair of small, chest height doors swaying in the doorway. A sign that reads "The Last Chance" is nailed above the entrance, into the wooden frame of the balcony.
-> - When 
-> 
 >
 > **1: Common Room**
 >> [!recite|clean no-t]

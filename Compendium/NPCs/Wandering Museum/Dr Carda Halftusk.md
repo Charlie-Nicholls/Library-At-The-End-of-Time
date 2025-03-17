@@ -9,7 +9,7 @@ displayLink: "[[Dr Carda Halftusk]]"
 ___
 
 > [!infobox|no-t right]
-> ![[portrait.jpg|350]]
+> ![[imgDrCardaHalftusk.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |

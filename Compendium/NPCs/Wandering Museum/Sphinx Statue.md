@@ -37,7 +37,7 @@ ___
 >^IntroText
 
 ### Description
-Description
+[[The Trickster]] will immediately recognise these as Sphinxes of Wonder when they see them or have them described to them as they are creatures born in the abstract and common in the more abstract parts of [[The Library]]. [[Clickity Clackity]] will also have advantage to try and identify them having spent so much time in [[The Library]]. Recognition will inform the players these creatures are resistant to magical effects in their area.
 
 ### Motivations
 - List of Motivations

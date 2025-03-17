@@ -41,6 +41,8 @@ Florence’s practiced eye notices any characters making Dexterity (Stealth) che
 
 Florence is a thief with her eyes on the upper ranks of the thieves' guild. She has a reputation for flashy thefts and wants into the museum's mithril exhibit. If she allies with the party, she can use her thief skills and chime of opening to great effect. She will not hesitate to betray the party once their shared goal is accomplished.
 
+If the players have allied with Florence the Cat when executing the heist, she pursues her own goals as soon as all of the forcecage wards are disabled. She waits until the party has drawn the guards' attention, then slips down to the second floor and the Mithril exhibit. She does not hesitate to betray or attack the party if she thinks it will benefit her.
+
 ### Motivations
 - List of Motivations
 

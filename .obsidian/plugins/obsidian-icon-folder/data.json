@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasRing",
+      "RiSafe2Fill",
       "LiSkull",
       "FasBandage",
       "FasDog",
@@ -13,9 +15,7 @@
       "FasPerson",
       "RiSafeFill",
       "FasCircleExclamation",
-      "FasImage",
-      "FasUserPen",
-      "LiNotepadText"
+      "FasImage"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -155,11 +155,13 @@
   "Session Notes/Chapter 06.md": "LiNotepadText",
   "Compendium/Party/Quests/Museum Heist.md": "FasBuildingColumns",
   "Compendium/NPCs/Wandering Museum": "FasBuildingColumns",
-  "Compendium/Atlas/Material Plane/Toril/Faerûn/Wandering Museum": "FasBuildingColumns",
   "Compendium/NPCs/Wandering Museum/Dr Carda Halftusk.md": "FasPerson",
   "Compendium/NPCs/Wandering Museum/Rinaldo Bardi.md": "FasPerson",
   "Compendium/NPCs/Wandering Museum/Luca Lomeo.md": "FasPerson",
   "Compendium/NPCs/Wandering Museum/Sphinx Statue.md": "FasDog",
   "Compendium/NPCs/Wandering Museum/Florence the Cat.md": "FasPerson",
-  "Compendium/NPCs/Wandering Museum/Sekhemkare.md": "LiSkull"
+  "Compendium/NPCs/Wandering Museum/Sekhemkare.md": "LiSkull",
+  "Compendium/Lore/Objects/Safe Bang Safe.md": "RiSafe2Fill",
+  "Compendium/Lore/Objects/Hearring.md": "FasRing",
+  "Compendium/Atlas/Material Plane/Toril/Faerûn/Western Heartlands/Sword Coast/Wandering Museum": "FasBuildingColumns"
 }

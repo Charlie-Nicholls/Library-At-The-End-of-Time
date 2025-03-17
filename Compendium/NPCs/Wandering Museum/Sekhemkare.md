@@ -37,7 +37,7 @@ ___
 >^IntroText
 
 ### Description
-Description
+When animated by [[The Trickster's Book]], Sekhemkare will try to stop it from being taken. He will also be immune to attacks from [[The Trickster]] as they are born of the same magic.
 
 ### Motivations
 - List of Motivations

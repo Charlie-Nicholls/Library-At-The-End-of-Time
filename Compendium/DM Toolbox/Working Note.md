@@ -20,10 +20,10 @@ ___
 - Told them about the editor's note
 
 ### Session Note
-[[Chapter 05]]
+[[Chapter 06]]
 
 ### Quest
-[[The Badlands Heist]]
+[[Museum Heist]]
 
 ### Players
 
@@ -34,10 +34,10 @@ SORT file.name ASC
 ```
 
 ### NPCs
-- [[Eddie Van Patten]]
+- [[]]
 
 ### Locations
-- [[The Last Chance]]
+- [[Wandering Museum]]
 
 ### Other
 - 

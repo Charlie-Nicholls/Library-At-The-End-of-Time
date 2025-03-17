@@ -216,7 +216,7 @@ On examining the table:
 	- Between their artwork and freely available drink, guests become much less attentive. For the duration of the class, doing something unnoticed in the café requires only a DC 10 Dexterity (Stealth) check
 	- [[Florence the Cat]] attends the event and talks to the players afterwards
 
-### Area 17: Dominic Halftusk Memorial Gallery
+### Area 17: Dominic Bardi Gallery
 > [!recite|clean no-t]
 >	 Dozens of tiny shelves cover the walls of this gallery. Teapots and teacups in patterned porcelain dominate the northern and eastern walls, while the southern wall shows a display of painted violins. One guard stands watch on the southern wall.
 >^Area17

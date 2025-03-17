@@ -18,17 +18,27 @@ status: Pending
 >>FROM "Session Notes" AND [[#]]
 
 ### Description
-**Things to add:**
-- side quest for nivea from aldra/sage, steal something else, maybe something to do with communicating/tracking gods or something anti-trickster as the museum can keep him out. 
-- some way for them to influence the timeline, moral quandary
-- some additional motivation for [[Rinaldo Bardi]], ties to timeline influence? offers key in return for help with this
+
 
 ### Quest Giver
 [[The Trickster]] on behalf of [[The Librarians]].
 
-- Knows about Magic Circle and Private Sanctum
-- Gives the players 50gp each for mission expenses, tells them to keep the change
-- 
+> [!recite|no-i nbrd] The Trickster's Quest
+> - Explain that [[Wandering Museum]] has a book that needs retrieving.
+> - It is in town near [[Waterdeep]] for three days.
+> - Has tried to negotiate with them but they deny it exists. So instead we will steal it.
+> - Has tried to do this alone but there is a *magic circle* enchantment preventing extraplanar creatures such as themselves from entering. 
+> - Teleporting into museum or trying to divine it has also proved impossible.
+> - On prompting will explain the book is [[The Trickster's Book]]
+> 	- Everyone has a divine book detailing the story of their life somewhere deep inside [[The Library]]
+> 	- Reading such books is dangerous and forbidden by [[The Authors]]
+> 	- Your book take on some of the properties of its subject
+> 		- Theirs, much like them, has a distaste for rules or confinement, and has a tendency to teleport out of [[The Library]] and hide
+> 		- It also has some rudimentary magic, mainly illusions, and has no fixed appearance.
+> - Will take the form of Puck while in the material plane. A small satyr fey from A Midsummer Nights Dream.
+> - Gives them [[Hearring]]s, one for themselves, two to be divided as they see fit.
+> - Uses *Plane Shift* suddenly to teleport them to outside the [[Wandering Museum]] instead of [[The Book Wormhole]].
+>^MuseumHeistBrief
 
 ### Objectives
  - [ ] Objective

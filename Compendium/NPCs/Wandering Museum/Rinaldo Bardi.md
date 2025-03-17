@@ -44,8 +44,8 @@ If the players ask Rinaldo about the museum security, he will happily tell them 
 - Runes: The runes on the walls have something to do with the force fields. There are a few in staff areas.
 - Museum layout: Mostly offices, and a vault on the first floor where they keep stuff not on display. 
 
-Rinaldo still has his staff key, and he will sell it to players for 300gp. It opens the doors in areas 3, 4, and 10.
-
+Rinaldo still has his staff key, it opens the doors in areas 3, 4, and 10.
+He will give it to the players if they promise to bring him a painting of value, preferably from his [[Wandering Museum#Area 17 Dominic Bardi Gallery|Uncle's collection]]. He wishes to sell the painting and use the money for genuine charitable deeds to upstage his uncle, who he says donates his money not to those who need it but to upper class establishments to buy a wing. His motivations are shallow but this would do some genuine good for the poor of [[Waterdeep]]
 
 ### Motivations
 - List of Motivations

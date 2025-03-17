@@ -43,7 +43,7 @@ displayLink: "[[<% name %>]]"
 ---
 
 ###### <% name %>
-<span class="sub2">By [[<% author %>#<% author %>]]</span>
+<span class="sub2">By [[<% author %>]]</span>
 <span class="sub2">:FasBook: Book</span>
 
 ---

@@ -37,7 +37,7 @@ ___
 >^IntroText
 
 ### Description
-Dr. Halftusk is familiar with every artifact in the museum, and if [[Museum Book]] is described to her, she directs the party to the [[Wandering Museum#Area 18 Egyptology Exhibit|Mummy Sculpture]]. 
+Dr. Halftusk is familiar with every artifact in the museum, and if [[The Trickster's Book]] is described to her, she directs the party to the [[Wandering Museum#Area 18 Egyptology Exhibit|Mummy Sculpture]]. 
 Security is a different matter. Dr. Halftusk is no fool, and she will not willingly divulge any information about the museum's defences. However, a questioner who spins the conversation as scholarly inquiry about wards in general (as might be gleaned from the Arcane Calligraphy exhibit) can get quite a bit of information out of her. If her suspicions are not aroused, she can reveal... 
 - Runes sustain long-lasting enchantments
 - The lines of a rune must be intact to function, and they are usually carved into hard materials to protect them from damage

@@ -1,10 +1,10 @@
 ---
 type: book
-displayLink: "[[Museum Book]]"
+displayLink: "[[The Trickster's Book]]"
 ---
 
-###### Museum Book
-<span class="sub2">By [[TBD#TBD]]</span>
+###### The Trickster's Book
+<span class="sub2">By [[Actus]]</span>
 <span class="sub2">:FasBook: Book</span>
 
 ---

@@ -9,9 +9,10 @@ displayLink: "[[Wild-Life - The Mad Life of Wild Willie#Wild-Life - The Mad Life
 
 ---
 
->[!recite|clean no-t]
->	Introduction for players
->^IntroText
+### Description
+
+This book was used as backup transport to [[The Badlands]] in [[Chapter 01]] after [[Abblesmith's Guide to the Badlands Desert]] went missing. Later, [[The Trickster]] would give the book to [[Dendrin]] to read to show him the monster [[Wild Willie|William Wilde]] would become. After [[Wild Willie|William Wilde]] was killed early in [[Chapter 05]], the book was unwritten from the timeline in [[Chapter 06]] and is now in [[The Unobserved]].
+
 
 ### Text
 

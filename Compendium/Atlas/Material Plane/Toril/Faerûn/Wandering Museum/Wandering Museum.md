@@ -232,9 +232,9 @@ On examining the table:
 - An elderly halfling of indeterminate gender sits on a bench in the north eastern corner. They are painting a watercolour of one of the statues on a small pad. If asked about their work, the painter complains that, "These damn *forcecages* make the water hard to paint."
 - There is a **Spinx Statue** in the northwest corner and one **Museum Guard** in the south east corner
 
-- Any player who comes within 10 feet of the Mummy's tank will notice it holds the [[Museum Book]].
+- Any player who comes within 10 feet of the Mummy's tank will notice it holds the [[The Trickster's Book]].
 - The plaque below the exhibit proclaims it is an authentic mummy, taken from the tomb of Sekhemkare.
-- A player who examines the statue and succeeds on a DC 20 Intelligence (Arcana) check suspects that the whole statue, not just the [[Museum Book]], is magical.
+- A player who examines the statue and succeeds on a DC 20 Intelligence (Arcana) check suspects that the whole statue, not just the [[The Trickster's Book]], is magical.
 
 ### Map
 

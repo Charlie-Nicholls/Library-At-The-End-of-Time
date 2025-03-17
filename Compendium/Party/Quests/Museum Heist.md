@@ -41,7 +41,7 @@ status: Pending
 >^MuseumHeistBrief
 
 ### Objectives
- - [ ] Objective
+ - [ ] Steal back [[The Trickster's Book]]
 
 ### Stages
  - [ ] Case The Museum
@@ -112,3 +112,13 @@ status: Pending
 > - The cafe closes to regular diners, and for a fee of 3gp patrons get charcoal and paper, a live model to draw, and bottomless wine.
 > - Between their artwork and freely available drink, guests become much less attentive. For the duration of the class, doing something unnoticed in the café requires only a DC 10 Dexterity (Stealth) check
 > - [[Florence the Cat]] attends the event and talks to the players afterwards
+
+> [!recite|no-i nbrd] Guard Stats
+> - Wizard Guards: 
+> 	- Perception: +3 +Alarm Level
+> 	- Insight: +3 +Alarm Level
+> 	- passive Perception: 13
+> - Museum Guards: 
+> 	- Perception: +4 +Alarm Level
+> 	- Insight: +4 +Alarm Level
+> 	- passive Perception: 14

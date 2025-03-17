@@ -65,15 +65,19 @@ action: {type: open, link: https://app.roll20.net/characters/sheet/10314629, new
 >^IntroText
 
 ### Description
-Description
-
+7'10" Tall
+300 pounds
+Gray skin mottled with dark and light patches that have a hint of green
+Long dark braided hair
+Brilliant blue eyes with a slight glow
+2 Ear rings and a nose ring
 
 ### Motivations
-- List of Motivations
+Maintain the order of the library and maintain the storyline
+Become as learned as possible when it comes to the library e.c.t (basically accrue knowledge)
 
 ### Magic Items / Abilities
 - [[Cloak of Billowing]]
-- [[Dagger of the Occult]] (unattuned)
 
 ### Allies
 - [[The Party]]
@@ -82,5 +86,4 @@ Description
 - [[Characters]] or [[Organisations]]
 
 ### Secrets
-- None
- 
+- Doesn't keep secrets, but has yet to tell [[The Party]] her nickname

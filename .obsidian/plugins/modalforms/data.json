@@ -728,6 +728,33 @@
         }
       ],
       "version": "1"
+    },
+    {
+      "title": "Add New Lore",
+      "name": "LORE",
+      "fields": [
+        {
+          "name": "Name",
+          "label": "Name:",
+          "description": "",
+          "isRequired": true,
+          "input": {
+            "type": "text",
+            "hidden": false
+          }
+        },
+        {
+          "name": "Type",
+          "label": "Type:",
+          "description": "",
+          "isRequired": false,
+          "input": {
+            "type": "dataview",
+            "query": "['Lore','Plan','Prophecy']"
+          }
+        }
+      ],
+      "version": "1"
     }
   ]
 }

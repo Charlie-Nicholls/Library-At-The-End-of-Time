@@ -7,6 +7,12 @@ displayLink: "[[Ideas]]"
 :RiToolsFill: DM Tool
 ___
 
+### Rough Ideas
+To defeat [[The Narrator]] they will need to find [[The Narrator's Book]] in the realm of story. 
+rough plan: have several adventures that influence the timeline -> messed up timeline causes shifts in the library which means they end up in a lost part of the library -> In escaping they end up freeing The Narrator -> probably at least one ends up unalive so we have a quest for that -> potentially a few more timeline disrupting moral quests -> they return to the library one day to find the narrator has returned and taken over, trapping most people in stories and bending reality -> The Author's contingency plan goes off, probably Tibword who goes back in time to remove the party from consideration to become librarians -> new timelines asserts itself where they simply died and the narrator was never freed -> they wake up in the unobserved -> they have to escape the unobserved to reassert the original timeline, an alternate version of the trickster will help them -> in doing so they free this alternate trickster and return the narrator -> come back just before the narrator takes over, go on quest to find the narrators book to defeat them and take back the library -> ? -> eventual fight with evil trickster as big bad
+
+Could the evil trickster have been manipulating things from the start to cause the timeline disruption that brings them back? Editing things from the future? maybe this trickster favours long term plans and runic magic rather than good tricksters illusions and playful trickery? How do both timelines exist at once? If someone reads [[The Trickster's Book]] they see two versions of events written over each other, one for the good and one for the bad trickster existing at the same time? Evil trickster steals the tricksters book to manipulate him? Provides the safe bang safe to eddie? Takes over the museum, uses it to keep the book, installing new safety features, use of runes and library references (sphinx, painting of gods)?
+
 ### Encounters
 
 #### Better Pting

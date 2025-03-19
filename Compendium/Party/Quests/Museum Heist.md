@@ -18,7 +18,7 @@ status: Pending
 >>FROM "Session Notes" AND [[#]]
 
 ### Description
-
+[[The Trickster]]'s [[Books of Self]] has disappeared from [[The Library]] (again), and has been located in the [[Wandering Museum]]. He has attempted to contact the museum's director to get it back but they deny they have it so, being unable to enter the museum himself, he has recruited [[The Party]] to perform a heist.
 
 ### Quest Giver
 [[The Trickster]] on behalf of [[The Librarians]].

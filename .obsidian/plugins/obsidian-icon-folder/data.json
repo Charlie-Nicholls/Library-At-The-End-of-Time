@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiQuestionFill",
+      "FasBook",
       "FasRing",
       "RiSafe2Fill",
       "LiSkull",
@@ -13,9 +15,7 @@
       "FasDog",
       "FasBuildingColumns",
       "FasPerson",
-      "RiSafeFill",
-      "FasCircleExclamation",
-      "FasImage"
+      "RiSafeFill"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -163,5 +163,9 @@
   "Compendium/NPCs/Wandering Museum/Sekhemkare.md": "LiSkull",
   "Compendium/Lore/Objects/Safe Bang Safe.md": "RiSafe2Fill",
   "Compendium/Lore/Objects/Hearring.md": "FasRing",
-  "Compendium/Atlas/Material Plane/Toril/Faerûn/Western Heartlands/Sword Coast/Wandering Museum": "FasBuildingColumns"
+  "Compendium/Atlas/Material Plane/Toril/Faerûn/Western Heartlands/Sword Coast/Wandering Museum": "FasBuildingColumns",
+  "Compendium/Lore/Objects/Books/The Trickster's Book.md": "FasBook",
+  "Compendium/Lore/Objects/Books/The Narrator's Book.md": "FasBook",
+  "Compendium/Lore/Other": "RiQuestionFill",
+  "Compendium/Lore/Other/Books of Self.md": "FasBook"
 }

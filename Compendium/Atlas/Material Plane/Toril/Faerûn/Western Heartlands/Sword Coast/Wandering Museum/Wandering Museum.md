@@ -25,24 +25,24 @@ The Wandering Museum
 
 ### Area 1: Foyer
 > [!recite|clean no-t]
->	Decorative pillars extend the length of this imposing marble entryway. A semicircular arch frames the doorway at the end of the hall, and embellished panels decorate the ceiling. An attendant sells tickets to the museum at a desk on the western wall of the foyer.
+>	Decorative pillars extend the length of this imposing marble entryway. A semi-circular arch frames the doorway at the end of the hall, and embellished panels decorate the ceiling. An attendant sells tickets to the museum at a desk on the western wall of the foyer.
 >^Area1
 
 - Tickets cost 4gp a person for a day pass. 
 - The attendant hands a brochure to each guest with their ticket. Give your players a copy of the brochure handout included with this module. The brochure contains a map of the galleries and a schedule of upcoming events. These are: 
 	- An afternoon seminar on the first day taught by the head curator of the museum. Meets at 4pm in the Arcane Calligraphy gallery.
-	- A sketch-and-sip event in the evening of the second day, held in the museum cafe under the frescoes.
+	- A sketch-and-sip event in the evening of the second day, held in the museum café under the frescoes.
 	- A fundraising gala held after hours on the third day. A ticketed black-tie event.
 - The attendant informs all guests that no weapons, magic, food or drink are allowed in the galleries. Any characters with visible weapons are asked to leave them at the front desk. 
 - If asked about exhibits with books, the attendant (or any other employee) responds that books can be found in the [[#Arcane Calligraphy]], [[#Library]] or incorporated into several other exhibits.
-- One museum guard and one wizard guard stand at the entrance to the exhibits. The wizard guard has a gem of seeing that they use on anyone who appears suspicious. 
+- One [[Museum Guard]] and one [[Wizard Guard]] stand at the entrance to the exhibits. The [[Wizard Guard]] has a gem of seeing that they use on anyone who appears suspicious. 
 - At night, the front door is secured with a lock and sliding deadbolt. Using thieves' tools, a character can pick the lock with a successful DC 16 Dexterity (Sleight of Hand) check. The deadbolt can be moved with mage hand or similar.
 
 ### Area 2: Frescoes
 > [!recite|clean no-t]
->	Swathes of color break up the marble walls of this room. Behind glass, plaster panels show muscular figures in blues, browns, and gold. Their gauzy clothes leave litlte anatomy to the imagination, and they are frozen in poses of combat, supplication, and romance.
+>	Swathes of colour break up the marble walls of this room. Behind glass, plaster panels show muscular figures in blues, browns, and gold. Their gauzy clothes leave little anatomy to the imagination, and they are frozen in poses of combat, supplication, and romance.
 >^Area2
-- One **Wizard Guard** stands in this room in both day and night.
+- One [[Wizard Guard]] stands in this room in both day and night.
 - If a character examines the exhibits more closely:
 
 > [!recite|clean no-t]
@@ -54,11 +54,11 @@ The Wandering Museum
 >	Display cases house old-fashioned armor and weapons on wooden mannequins. At the north end of the hall, a shimmering illusion of an armored woman holds a glowing hammerand smiles at passing guests. A large stone statue of a cat-like creature with feathered wings sits next to her on a dais. Next to the cat is a discrete door.
 >^Area3
 
-- This is a **sphinx statue**
+- This is a [[Sphinx Statue]]
 - *Detect magic* or similar on the statue gives a strong aura of conjuration and abjuration magic.
 - If the museum alarm level is more than zero, the corresponding number of gems on the statue's head are lit.
 - A locked door in the north wall leads to the staff area of the museum. It can be unlocked with a successful DC 12 Dexterity (Sleight of Hand) check using thieves' tools.
-- If players examine the **sphinx statue**:
+- If players examine the [[Sphinx Statue]]:
 
 ![[Sphinx Statue#^IntroText|clean collapse nlk]]
 
@@ -77,7 +77,7 @@ On examining the table:
 - Plaques around the room inform readers that these are genuine, deactivated magical scrolls.
 - Close observers notice that all of the scrolls have tears through the central sigil, though none so dramatic as the tome on the table. 
 - A player who studies the scrolls and tabletop tome can make a DC 12 Intelligence (Arcana) check. On a success, the player knows that runes sustain magical enchantments and that damaging the rune breaks the enchantment.
-- There is a **sphinx statue** statue in the northeast corner of the exhibit.
+- There is a [[Sphinx Statue]] statue in the northeast corner of the exhibit.
 - Locked double doors in the north wall lead to the archive staging area. They can be unlocked using thieves' tools with a successful DC 16 Dexterity (Sleight of Hand) check.
 - [[Dr Carda Halftusk]] meets seminar attendees here at 4pm on the first day. She leads them up to the southwest meeting room on the second floor.
 
@@ -86,8 +86,8 @@ On examining the table:
 >	A broad staircase with elaborate carved bannisters leads to the other museum floors. A chalk board sign points the way to guest restrooms.
 >^Area5
 
-- On the first floor, a **Museum Guard** stands watch near the base of the stairs day and night.
-- On the second floor, a **sphinx statue** sits between the two staircases.
+- On the first floor, a [[Museum Guard]] stands watch near the base of the stairs day and night.
+- On the second floor, a [[Sphinx Statue]] sits between the two staircases.
 - Restrooms are on the north side of the staircases on the first and second floors
 
 ### Area 6: Library
@@ -104,7 +104,7 @@ On examining the table:
 
 ### Area 7a: Archive Stage
 > [!recite|clean no-t]
->	A broad, quiet room. There are heavy metal doors on the western wall and a sphinx statue in the northwest corner. The archive stage is used to unpack archived items for display and occasional cleaning. There is a sphinx statue in the northwest corner.
+>	A broad, quiet room. There are heavy metal doors on the western wall and a [[Sphinx Statue]] in the northwest corner. The archive stage is used to unpack archived items for display and occasional cleaning. There is a [[Sphinx Statue]] in the northwest corner.
 >^Area7a
 
 - The double doors on the western wall are sealed with an arcane lock spell. This raises the difficulty to pick the lock with thieves' tools from DC 15 to DC 25. The door has AC 20 and 50HP.
@@ -128,7 +128,7 @@ On examining the table:
 >	 This L-shaped exhibit displays many painted triptychs. Each triptych is made of three elaborately framed panels hinged together, some the size of windows and others small enough to hang on a locket chain. The scenes in each triptych depict the myths and avatars of various gods. One guard stands watch on the west wall.
 >^Area8
 
- - There is a **Museum Guard** by the western wall of the room. 
+ - There is a [[Museum Guard]] by the western wall of the room. 
  - Plaques below each exhibit describe the deities depicted. 
  - When the players enter this room for the first time, [[Rinaldo Bardi]] is harassing the guard. 
 	 - He laments what a dead-end job the guard has and that he, Rinaldo, should have quit even sooner. 
@@ -142,10 +142,10 @@ On examining the table:
 
 ### Area 10: Statuary
 > [!recite|clean no-t]
->	 Snowy marble statues flank the walls of this gallery. The figures are startlingly lifelike, adorned with fluid stone robes and placid, perfectly symmetrical faces. There is a discrete door in the western wall and a sphinx statue in the northwest corner.
+>	 Snowy marble statues flank the walls of this gallery. The figures are startlingly lifelike, adorned with fluid stone robes and placid, perfectly symmetrical faces. There is a discrete door in the western wall and a [[Sphinx Statue]] in the northwest corner.
 >^Area10
 
-- There is a **sphinx statue** positioned in the north eastern corner of this gallery.
+- There is a [[Sphinx Statue]] positioned in the north eastern corner of this gallery.
 - The western door is locked. A player who makes a successful DC 15 Dexterity check with thieves' tools can unlock the door.
 
 ### Area 11: Mithril of Ornhelm (R)
@@ -154,7 +154,7 @@ On examining the table:
 >^Area11
 
 - The artworks held in this exhibit are the most valuable in the museum.
-- There are **Museum Guards** posted in the north eastern and south sides of the gallery, and a **Wizard Guard** on the eastern wall. The two south eastern guard positions are occupied at night.
+- There are [[Museum Guards]] posted in the north eastern and south sides of the gallery, and a [[Wizard Guard]] on the eastern wall. The two south eastern guard positions are occupied at night.
 - There is a forcecage rune carved 12 feet up the eastern wall of the exhibit.
 	- Each forcecage rune looks like a circle split into three parts, representing the three total runes that power the forcecages.
 	- Players who succeed on a DC 12 Intelligence (Investigation) check notice similarities with the exhibits in the Arcane Calligraphy gallery. Players who succeed by 4 or more realize that this is one of three glyphs in a set.
@@ -221,16 +221,16 @@ On examining the table:
 >	 Dozens of tiny shelves cover the walls of this gallery. Teapots and teacups in patterned porcelain dominate the northern and eastern walls, while the southern wall shows a display of painted violins. One guard stands watch on the southern wall.
 >^Area17
 
-- A **Wizard Guard** is stationed at the head of the staircase. Their main job is to remind guests that they cannot bring food out of the café area. This guard station is occupied at night.
+- A [[Wizard Guard]] is stationed at the head of the staircase. Their main job is to remind guests that they cannot bring food out of the café area. This guard station is occupied at night.
 
 ### Area 18: Egyptology Exhibit
 > [!recite|clean no-t]
->	 Around the room are various cylindrical tanks based with sand on which sits a plethora of Egyptian themed sculptures. A replica pyramid and a larger meaner looking sphinx amongst them with the god Ra and pharaoh's coffin facing each other in the centre. There is a guard on watch in the southeast corner, an elderly artist working in the northeast corner, and a sphinx statue in the northwest corner.
+>	 Around the room are various cylindrical tanks based with sand on which sits a plethora of Egyptian themed sculptures. A replica pyramid and a larger meaner looking sphinx amongst them with the god Ra and pharaoh's coffin facing each other in the centre. There is a guard on watch in the southeast corner, an elderly artist working in the northeast corner, and a [[Sphinx Statue]] in the northwest corner.
 >^Area18
 
 - The sand inside the sculpture tanks makes the *forcecages* more noticeable in this exhibit.
 - An elderly halfling of indeterminate gender sits on a bench in the north eastern corner. They are painting a watercolour of one of the statues on a small pad. If asked about their work, the painter complains that, "These damn *forcecages* make the water hard to paint."
-- There is a **Spinx Statue** in the northwest corner and one **Museum Guard** in the south east corner
+- There is a [[Sphinx Statue]] in the northwest corner and one [[Museum Guard]] in the south east corner
 - Any player who comes within 10 feet of the Ra's tank will notice it holds the [[The Trickster's Book]], disguised bearing falcon with wings spread holding the sun. Hieroglyphs read "The Trickster" if translated.
 - The plaque below the pharaoh's coffin exhibit proclaims it is authentic, taken from the tomb of [[Sekhemkare]].
 - A player who examines the coffin, book or Ra and succeeds on a DC 12 Intelligence (Arcana) check sees a magical thread connecting the two exhibits and on DC 17 that it is from the school of illusion.

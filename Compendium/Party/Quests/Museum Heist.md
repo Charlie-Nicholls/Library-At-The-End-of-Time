@@ -75,13 +75,13 @@ status: Pending
 > - The *private sanctum* spell is not attached to any rune and cannot be suppressed or removed. Note this does not stop teleportation within the museum.
 
 > [!recite|no-i nbrd] Sphinx Statues 
-> - Enchanted guardians of the gallery, sphinx statue statues dispel invisibility and patrol the galleries at night.
+> - Enchanted guardians of the gallery, [[Sphinx Statue]] statues dispel invisibility and patrol the galleries at night.
 > - Each [[Sphinx Statue]] has five magical gems on their foreheads. One lights up each time the alarm level increases.
-> - During the day, the sphinx statues are active but stationary. At night, they leave their plinths and patrol the museum. While patrolling, a sphinx statue attacks anyone who is not a museum employee.
-> - sphinx statue plinths are located in areas 3, 4, 7a, 5, 10, and 16
+> - During the day, the [[Sphinx Statue]] are active but stationary. At night, they leave their plinths and patrol the museum. While patrolling, a [[Sphinx Statue]] attacks anyone who is not a museum employee.
+> - [[Sphinx Statue]] plinths are located in areas 3, 4, 7a, 5, 10, and 16
 
 > [!recite|no-i nbrd] Guards
-> - Guards – fighters and wizards – are stationed throughout the museum. 
+> - Guards – [[Museum Guard|fighters]] and [[Wizard Guard|wizards]] – are stationed throughout the museum. 
 > - As the alarm level of the museum goes up, all guards get bonuses to Wisdom (Perception and Insight) checks equal to the alarm level.
 
 > [!recite|no-i nbrd] Alarm Level
@@ -91,14 +91,14 @@ status: Pending
 > - In both cases, a character who fails is not caught. Allow them to continue their course of action. and instead raise the alarm level of the museum.
 > - Events that raise the alarm level are close shaves. A failed Stealth check means that a guard pauses, comes within inches of a player’s hiding spot, then moves on, Raising the Alarm
 > - The alarm level starts at 0 each day and goes up to 5. 
-> - When the alarm level increases, a guard will tap the nearest sphinx statue on the head, illuminating an additional gem. 
+> - When the alarm level increases, a guard will tap the nearest [[Sphinx Statue]] on the head, illuminating an additional gem. 
 > - At each alarm level, all museum guards gain a cumulative +1 bonus to Wisdom (Perception and Insight) checks.
-> - At alarm level 5, the museum closes immediately (day) or the city guard is summoned (night). The guards and sphinx statues do a full sweep of the museum. The next day, the museum opens at alarm level +1.
+> - At alarm level 5, the museum closes immediately (day) or the city guard is summoned (night). The guards and [[Sphinx Statue]] do a full sweep of the museum. The next day, the museum opens at alarm level +1.
 
 > [!recite|no-i nbrd] Day and Night
 > - The museum opens at 10am and closes at 6pm. 
-> - After the museum closes, the guards lock the front doors, activate the sphinx statues, and do a sweep of all three floors. During this sweep, all of the wizard guards cast detect magic and see invisibility. 
-> - At night, the museum security has the following differences. The sphinx statues patrol their floors, attacking any non-guard that they encounter. There are fewer guards on each floor, and all non-guard NPCs and guests are absent. The lights stay on at night.
+> - After the museum closes, the guards lock the front doors, activate the [[Sphinx Statue]], and do a sweep of all three floors. During this sweep, all of the wizard guards cast detect magic and see invisibility. 
+> - At night, the museum security has the following differences. The [[Sphinx Statue]] patrol their floors, attacking any non-guard that they encounter. There are fewer guards on each floor, and all non-guard NPCs and guests are absent. The lights stay on at night.
 
 > [!recite|no-i nbrd] Fundraiser 
 > - On the third night, the museum hosts a black-tie gala. 

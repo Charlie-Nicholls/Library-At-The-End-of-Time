@@ -2,8 +2,7 @@
 type: notes
 date: 2025-03-17
 displayLink: "[[Chapter 06]]"
-aliases:
-  - TBD
+alias: "We Put A Scythe In Our Trousers"
 chapter: 6
 ---
 
@@ -21,10 +20,8 @@ ___
 > 
 >> [!info|flex]- NPCS:
 >> - [[The Trickster]]
->> - [[Dr Carda Halftusk]]
->> - [[Luca Lomeo]]
+>> - [[Dr Carda Halftusk]] (Mentioned)
 >> - [[Rinaldo Bardi]]
->> - [[Florence the Cat]]
 >
 >> [!example|flex]- LOCATIONS:
 >> - [[The Library]]
@@ -78,8 +75,8 @@ ___
 - Clickity examines the arcane calligraphy and finds the exhibit that shows how to disable a rune
 - Dendrin looks at the mythril exhibit and notices a rune on the wall split into 3 and glowing red
 - From a description told to the trickster he cant identify it, but speculates it's a part of security
-- Nivea examines the Egyptology exhibit and finds something seems off when between the Ra and Pharoah statue
-	- This is a perception filter drawing his eye away from the book in Ra's Hand
+- Nivea examines the Egyptology exhibit and finds something seems off when between theSetand Pharoah statue
+	- This is a perception filter drawing his eye away from the book in Set's Hand
 - Nivea examines the sphinx statue and determines they are magical and likely a part of the security system
 - Dreisfor finds Rinaldo berating a guard until they are forced to remove him. Overhearing and deducing that Rinaldo is a posh twat who used to have a job here because of his uncle but was fired recently taking it out on the guard.
 - After last time Clickity is determined to investigate the toilets, seamlessly making his way into both the men's and women's but finding nothing. Though the Trickster suggested it could be used to hide out in till the night shift and Clickity speculated that the way the plumbing worked could be interesting as they would be unable to simply teleport it out.

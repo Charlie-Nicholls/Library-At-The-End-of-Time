@@ -1,15 +1,16 @@
 ---
 type: npc
 locations:
- - "[[The Library]]"
-displayLink: "[[The Trickster#The Trickster]]"
+ - "[[The Unobserved]]"
+displayLink: "[[The Alternate Trickster]]"
+aliases: ["Set"]
 ---
-###### The Trickster
-<span class="sub2">:FasMapLocationDot: [[The Library#The Library]] | :FasHeartPulse: Unknown </span>
+###### The Alternate Trickster
+<span class="sub2">:FasMapLocationDot: [[The Unobserved]] | :FasHeartPulse: Hostile </span>
 ___
 
 > [!infobox|no-t right]
-> ![[imgLoki.jpg|350]]
+> ![[imgSet.jpg|350]]
 >
 > | Type | Stat |
 > | ---- | ---- |
@@ -21,28 +22,27 @@ ___
 >> [!info]- STORYLINES
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[The Trickster]]
+>>FROM "Compendium/Party/Quests" AND [[#]]
 >
 >>[!note]- HISTORY
 >>```dataview
 >>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[The Trickster]]
+>>FROM "Session Notes" AND [[#]]
 >
 >^InfoBox
 
 # Profile
 
 > [!recite|clean no-t]
->	A shortish figure, maybe a halfling, with a bright smile and dark clothes.
+>	Introduction for players
 >^IntroText
 
 ### Description
 Description
 
 #### Favourite Forms:
+- Set
 - Loki
-- Puck
-- Sisyphus
 
 ### Motivations
 - List of Motivations
@@ -51,22 +51,19 @@ Description
 - None
 
 ### Allies
-- [[The Editors]]
-- [[Tibword Phirin]]
-- [[Chan-tho]]
-- [[Dendrin]]
+- [[Characters]] or [[Organisations]]
 
 ### Enemies
-- [[The Authors]]
+- [[The Trickster]]
 
 ### Secrets
-- Leader of [[The Editors]]
+- None
 
 ### Statblock
 >```statblock
-name: The Trickster
+name: The Alternate Trickster
 speed: 40
 stats: [10,20,15,17,14,24]
 languages: All
 saves: [charisma: 10,intelligence: 6,dexterity: 8]
-skillsaves: [persuasion: 13,deception: 13,stealth: 10,sleight of hand: 10]
+skillsaves: [arcana: 6, persuasion: 13,deception: 13,stealth: 10,sleight of hand: 10]

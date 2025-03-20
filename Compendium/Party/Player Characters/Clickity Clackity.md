@@ -13,7 +13,7 @@ alias: "Clickity"
 ---
 
 ###### Clickity Clackity
-<span class="sub2">:FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: *Click clack click click clack click clack clack.* :FasQuoteRight: </span>
+<span class="sub2">:FasPerson: Player Character | :FasQuoteLeft: *Click clack click click clack click clack clack.* :FasQuoteRight: </span>
 ___
 > [!infobox|no-t right]
 > ![[imgClickityClackity.png|350]]

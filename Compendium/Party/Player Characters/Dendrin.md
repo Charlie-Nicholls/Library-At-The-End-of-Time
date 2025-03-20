@@ -13,8 +13,9 @@ cover: "Assets/Images/Party/imgDendrin.jpg"
 ---
 
 ###### Dendrin
-<span class="sub2">:FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: Final Words :FasQuoteRight: </span>
+<span class="sub2">:FasPerson: Player Character | :FasQuoteLeft: Final Words :FasQuoteRight: </span>
 ___
+
 > [!infobox|no-t right]
 > ![[imgDendrin.jpg|350]]
 > 
@@ -57,7 +58,7 @@ tooltip: external character sheet
 style: default
 action: {type: open, link: https://app.roll20.net/campaigns/details/18822428/the-library-at-the-end-of-time, newTab: true}
 
-# Profile> 
+# Profile
 
 > [!recite|clean no-t]
 >	Introduction for players

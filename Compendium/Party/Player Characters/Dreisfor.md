@@ -12,7 +12,7 @@ cover: "Assets/Images/Party/imgDreisfor.png"
 ---
 
 ###### Dreisfor
-<span class="sub2">:FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: Final Words :FasQuoteRight: </span>
+<span class="sub2">:FasPerson: Player Character | :FasQuoteLeft: Final Words :FasQuoteRight: </span>
 ___
 > [!infobox|no-t right]
 > ![[imgDreisfor.png|350]]

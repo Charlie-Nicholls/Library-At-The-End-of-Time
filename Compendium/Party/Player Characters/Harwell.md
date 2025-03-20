@@ -12,7 +12,7 @@ cover: "/Assets/Images/Party/imgHarwell.jpg"
 ---
 
 ###### Harwell
-<span class="sub2">:FasPerson: Player Character &nbsp; | &nbsp; :FasQuoteLeft: Quote or tagline here :FasQuoteRight: </span>
+<span class="sub2">:FasPerson: Player Character | :FasQuoteLeft: Quote or tagline here :FasQuoteRight: </span>
 ___
 > [!infobox|no-t right]
 > ![[imgHarwell.jpg|350]]

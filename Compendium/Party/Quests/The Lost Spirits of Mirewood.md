@@ -51,6 +51,7 @@ The [[Tome of Spirits]] disappeared from [[The Library]] in chapters passed, but
 > 
 >> [!recite|clean no-t]
 >> 	You arrive at a military checkpoint on the outskirts of the swamp, along the banks of a large river. There are soldiers at the checkpoint, led by a sturdy half-elf, who while he stands facing the direction you approach from, it is clear from the way he nervously looks over his shoulder every few seconds that he is much more concerned with what might come from behind.
+>
 > On talking to the guard:
 > 
 >> [!recite|clean no-t]

@@ -15,7 +15,7 @@ dv.table(["cover", "name", "details"],
   dv.pages(`"Compendium/Party/Player Characters"`)
   .sort(page => page.file.name, "asc")
     .map(p => [
-      `![](${vault}/${p.cover})`, // For image link use: [![](${vault}/${p.cover})](<${p.file.name}#${p.file.name}>)
+      `![](${vault}/${p.cover})`,
       p.displayLink,
       obsidian.Platform.isMobile ? `:FasCrown: Level ${p.level}<br>:FasUserGroup: ${p.race}<br>:RiSwordFill: ${p.class}` : `:FasCrown: Level ${p.level} / :FasUserGroup: ${p.race} / :RiSwordFill: ${p.class}`
     ])

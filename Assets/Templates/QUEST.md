@@ -49,16 +49,13 @@ status: <% status %>
 ### Description
 Quest description here...
 
+### Index
+ - [[#]]
+
 ### Quest Giver
 [[<% npc %>]]
 
 ### Objectives
  - [ ] Objective
-
-### Stages
- - [ ] Stage 1
-
-### Index
- - [[#]]
 
 ### Plan

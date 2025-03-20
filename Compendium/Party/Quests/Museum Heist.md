@@ -4,7 +4,7 @@ target:
   - "[[The Party]]"
 locations: 
 displayLink: "[[Museum Heist]]"
-status: Pending
+status: Ongoing
 ---
 ###### Museum Heist
 <span class="sub2"> :FasCircleExclamation: Quest | :FasListCheck: `=this.status` | :FasUser: [[The Trickster]] </span>
@@ -19,6 +19,10 @@ status: Pending
 
 ### Description
 [[The Trickster]]'s [[Books of Self]] has disappeared from [[The Library]] (again), and has been located in the [[Wandering Museum]]. He has attempted to contact the museum's director to get it back but they deny they have it so, being unable to enter the museum himself, he has recruited [[The Party]] to perform a heist.
+
+### Index
+- [[#Plan]]
+- [[Wandering Museum]]
 
 ### Quest Giver
 [[The Trickster]] on behalf of [[The Librarians]].
@@ -42,13 +46,7 @@ status: Pending
 
 ### Objectives
  - [ ] Steal back [[The Trickster's Book]]
-
-### Stages
- - [ ] Case The Museum
- - [ ] Steal The Book
-
-### Index
- - [[#]]
+ - [ ] ([[Nivea]]) Read [[The Trickster's Book]] Secrety
 
 ### Plan
 
@@ -59,7 +57,7 @@ status: Pending
 > - Disabling the forcecage runes are the key to a successful heist. Steer players towards information about the runes as as soon as possible. The Arcane Calligraphy exhibit, Library, Dr. Halftusk, Rinaldo Bardi, Luca Lomeo, and [[The Trickster]] can all give information of varying quality.
 > - If all three forcecage runes are disabled, the forcecages around all of the exhibits disappear. This leaves all of the exhibits protected only by mundane glass. Each 10 foot section of glass has AC 15 and 10 Hit Points. When reduced to 0 Hit Points, that section shatters.
 > 
->> [!recite|no-i clean] **Runes**
+>> [!recite|no-i clean] Runes
 > 
 > ![[Wandering Museum#^Area11ForcecageRune|clean collapse nlk]]
 > - Each forcecage rune looks like a circle split into three parts, representing the three total runes that power the forcecages.
@@ -114,11 +112,11 @@ status: Pending
 > - [[Florence the Cat]] attends the event and talks to the players afterwards
 
 > [!recite|no-i nbrd] Guard Stats
-> - Wizard Guards: 
+> - [[Wizard Guard]]: 
 > 	- Perception: +3 +Alarm Level
 > 	- Insight: +3 +Alarm Level
 > 	- passive Perception: 13
-> - Museum Guards: 
+> - [[Museum Guard]]: 
 > 	- Perception: +4 +Alarm Level
 > 	- Insight: +4 +Alarm Level
 > 	- passive Perception: 14

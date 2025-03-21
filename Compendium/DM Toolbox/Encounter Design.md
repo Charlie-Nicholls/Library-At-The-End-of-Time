@@ -11,6 +11,8 @@ ___
 
 Change legendary resistance so the boss can transfer effects onto minions
 
+[Pointy Hat: Battlefield Actions](https://docs.google.com/document/d/e/2PACX-1vTjTP_2coEPSTQXcUX4AMlZGYRE2j0-5u9rV5nyjJUzYEMbRtTIGi46SrvNfBiPxgNWwH0Pig4Z2QuE/pub)
+
 # 8 Types of Combat
 
 **Skirmish**

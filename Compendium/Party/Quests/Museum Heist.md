@@ -46,7 +46,7 @@ status: Ongoing
 
 ### Objectives
  - [ ] Steal back [[The Trickster's Book]]
- - [ ] ([[Nivea]]) Read [[The Trickster's Book]] Secrety
+ - [ ] ([[Nivea]]) Secretly Read [[The Trickster's Book]]
 
 ### Plan
 

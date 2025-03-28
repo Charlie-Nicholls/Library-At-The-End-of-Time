@@ -24,6 +24,7 @@ displayLink: "[[Wandering Museum]]"
 The Wandering Museum
 
 ### Area 1: Foyer
+
 > [!recite|clean no-t]
 >	Decorative pillars extend the length of this imposing marble entryway. A semi-circular arch frames the doorway at the end of the hall, and embellished panels decorate the ceiling. An attendant sells tickets to the museum at a desk on the western wall of the foyer.
 >^Area1

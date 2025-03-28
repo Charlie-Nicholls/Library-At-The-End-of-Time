@@ -15,7 +15,7 @@ ___
 >^IntroText
 
 ### Description
->The Sword Coast, also nicknamed the Empty Lands, is the region in western [[Faerûn#Faerûn]] that lays along the coast of the Sea of Swords and extends inward into to the vale. It's an expansive tract of wilderness, dotted with independent cities and overrun by bands of monstrous creatures, that some see as merely a place through which you have to travel in order to reach an actual meaningful destination. It is much more than that of course. A rich and vibrant land with a long and storied history that encompassed some of the most important cities in all the Realms.
+The Sword Coast, also nicknamed the Empty Lands, is the region in western [[Faerûn#Faerûn]] that lays along the coast of the Sea of Swords and extends inward into to the vale. It's an expansive tract of wilderness, dotted with independent cities and overrun by bands of monstrous creatures, that some see as merely a place through which you have to travel in order to reach an actual meaningful destination. It is much more than that of course. A rich and vibrant land with a long and storied history that encompassed some of the most important cities in all the Realms.
 
 ---
 

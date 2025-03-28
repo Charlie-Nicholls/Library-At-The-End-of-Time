@@ -16,7 +16,7 @@ ___
 >^IntroText
 
 ### Description
->Baldur's Gate, also called simply the Gate, is the largest metropolis and city-state on the Sword Coast, within the greater Western Heartlands. It is a crowded city of commerce and opportunity, perhaps the most prosperous and influential merchant city on the western coast of [[Faerûn#Faerûn]]. Despite its long-standing presence as a neutral power, the leaders of Baldur's Gate are members of the Lords' Alliance of powers in the west.
+Baldur's Gate, also called simply the Gate, is the largest metropolis and city-state on the Sword Coast, within the greater Western Heartlands. It is a crowded city of commerce and opportunity, perhaps the most prosperous and influential merchant city on the western coast of [[Faerûn#Faerûn]]. Despite its long-standing presence as a neutral power, the leaders of Baldur's Gate are members of the Lords' Alliance of powers in the west.
 
 ---
 

@@ -37,7 +37,7 @@ ___
 >^IntroText
 
 ### Description
-Description
+Leader of [[The Editors]], [[The Archetypes]] representing characters who fight those more powerful than themselves with tricks, illusions and cleverness.
 
 #### Favourite Forms:
 - Loki

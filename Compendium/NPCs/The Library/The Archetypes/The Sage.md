@@ -37,7 +37,7 @@ ___
 >^IntroText
 
 ### Description
-One of [[The Authors]]
+A senior authorities of [[The Authors]] and one of [[The Archetypes]].
 
 ### Motivations
 - List of Motivations

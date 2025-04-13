@@ -42,7 +42,7 @@ ___
 >^IntroText
 
 ### Description
-Description
+One of [[The Archetypes]].
 
 #### Favourite Forms:
 - Set

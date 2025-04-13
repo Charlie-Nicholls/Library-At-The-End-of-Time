@@ -41,7 +41,7 @@ ___
 >^IntroText
 
 ### Description
-Description
+The most dangerous of [[The Archetypes]], The Narrator has the power to bend stories to their will. Inside the abstract, [[The Narrator]] can warp reality itself.
 
 ### Motivations
 - List of Motivations

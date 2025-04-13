@@ -10,7 +10,11 @@ ___
 
 > [!infobox|no-t right]
 > ![[imgLoki.jpg|350]]
->
+> 
+> | Form |
+> | :----: |
+> | :FasUser: Loki |
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasBriefcase: Job |  Archetype |

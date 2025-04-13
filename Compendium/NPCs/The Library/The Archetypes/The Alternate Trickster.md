@@ -11,7 +11,11 @@ ___
 
 > [!infobox|no-t right]
 > ![[imgSet.jpg|350]]
->
+> 
+> | Form |
+> | :----: |
+> | :FasUser: Set |
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasBriefcase: Job |  Archetype |

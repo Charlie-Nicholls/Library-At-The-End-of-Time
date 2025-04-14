@@ -44,7 +44,7 @@ ___
 ### Description
 One of [[The Archetypes]].
 
-#### Favourite Forms:
+#### Forms:
 - Set
 - Loki
 

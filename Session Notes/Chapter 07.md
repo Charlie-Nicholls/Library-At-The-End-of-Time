@@ -2,7 +2,7 @@
 type: notes
 date: 2025-04-14
 displayLink: "[[Chapter 07]]"
-alias: "TBD"
+alias: "We Make Shit Happen"
 chapter: 07
 ---
 
@@ -30,7 +30,9 @@ ___
 
 ### Plan
 > [!recite|no-i nbrd] Formalities
-> - [ ] Date & Host for James' game
+> - [x] Date & Host for James' game
+> 	- Owen good for 7/8th & 21/22 june
+> 	- 7/8th weekend @ george's
 
 > [!recite|clean]- Recap
 > ![[Chapter 06#Summary]]
@@ -46,7 +48,8 @@ ___
 > - Have [[The Noble]] discover them after they fight [[Sekhemkare]], enter a chase track. Whoever has the book when they leave the museum can plane shift away to safety.
 
 ### Notes
-- Live notes from the session here.
+- james finds book, notes glyphs, talks to carda, goes to library, finds
+- 
 
 ### Summary
 - Summary of the important points from the session here.

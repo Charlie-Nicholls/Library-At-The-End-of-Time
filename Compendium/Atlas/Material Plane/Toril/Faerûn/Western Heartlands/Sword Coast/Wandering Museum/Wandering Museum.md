@@ -36,7 +36,7 @@ The Wandering Museum
 	- A fundraising gala held after hours on the third day. A ticketed black-tie event.
 - The attendant informs all guests that no weapons, magic, food or drink are allowed in the galleries. Any characters with visible weapons are asked to leave them at the front desk. 
 - If asked about exhibits with books, the attendant (or any other employee) responds that books can be found in the [[#Arcane Calligraphy]], [[#Library]] or incorporated into several other exhibits.
-- One [[Museum Guard]] and one [[Wizard Guard]] stand at the entrance to the exhibits. The [[Wizard Guard]] has a gem of seeing that they use on anyone who appears suspicious. 
+- One [[Museum Guard]] and one [[Wizard Guard]] stand at the entrance to the exhibits. The [[Wizard Guard]] has a *Gem of Seeing* that they use on anyone who appears suspicious. 
 - At night, the front door is secured with a lock and sliding deadbolt. Using thieves' tools, a character can pick the lock with a successful DC 16 Dexterity (Sleight of Hand) check. The deadbolt can be moved with mage hand or similar.
 
 ### Area 2: Frescoes
@@ -226,7 +226,7 @@ On examining the table:
 
 ### Area 18: Egyptology Exhibit
 > [!recite|clean no-t]
->	Around the room are various cylindrical tanks based with sand on which sits a plethora of Egyptian themed sculptures. A replica pyramid and a larger meaner looking sphinx amongst them with the god Set and pharaoh's coffin facing each other in the centre. There is a guard on watch in the southeast corner, an elderly artist working in the northeast corner, and a Sphinx Statue in the northwest corner.
+>	Around the room are various cylindrical tanks based with sand on which sits a plethora of Egyptian themed sculptures. A replica pyramid and a larger meaner looking sphinx amongst them with the god Ra and pharaoh's coffin facing each other in the centre. There is a guard on watch in the southeast corner, an elderly artist working in the northeast corner, and a Sphinx Statue in the northwest corner.
 >^Area18
 
 - The sand inside the sculpture tanks makes the *forcecages* more noticeable in this exhibit.
@@ -234,7 +234,7 @@ On examining the table:
 - There is a [[Sphinx Statue]] in the northwest corner and one [[Museum Guard]] in the south east corner
 - Any player who comes within 10 feet of Set's tank will notice it holds the [[The Trickster's Book]], disguised bearing falcon with wings spread holding the sun. Hieroglyphs read "The Trickster" if translated.
 - The plaque below the pharaoh's coffin exhibit proclaims it is authentic, taken from the tomb of [[Sekhemkare]].
-- A player who examines the coffin, book orSetand succeeds on a DC 12 Intelligence (Arcana) check sees a magical thread connecting the two exhibits and on DC 17 that it is from the school of illusion.
+- A player who examines the coffin, book or Ra and succeeds on a DC 12 Intelligence (Arcana) check sees a magical thread connecting the two exhibits and on DC 17 that it is from the school of illusion.
 - Touching [[The Trickster's Book]] will drop the illusion magic on [[Sekhemkare]], and animate the mummy.
 
 ### Map

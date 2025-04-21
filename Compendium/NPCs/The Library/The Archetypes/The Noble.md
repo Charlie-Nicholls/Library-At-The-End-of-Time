@@ -76,9 +76,18 @@ On learning that [[The Trickster's Book]] was inside the [[Wandering Museum]], T
 
 ### Statblock
 >```statblock
-name: The Noble
-speed: 30
-stats: [10,14,15,17,20,24]
-languages: All
-saves: [charisma: 10,intelligence: 6,wisdom: 8]
-skillsaves: [persuasion: 13,deception: 13,insight: 10,perception: 10]
+> name: The Noble
+> speed: 30
+> stats: [14,10,15,17,20,20]
+> languages: All
+> saves: [charisma: 8,intelligence: 6,wisdom: 8]
+> skillsaves: [persuasion: 11,deception: 11,insight: 8,perception: 8]
+> spells:
+>   - "The Nobel is an ?th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). The Nobel can cast disguise self at will and has the following spells prepared:"
+>   - Cantrips (at will): 
+>   - 1st level (4 slots): Charm Person
+>   - 2nd level (3 slots): Hold Person, Suggestion
+>   - 3rd level (3 slots):
+>   - 4th level (3 slots):
+>   - 5th level (3 slots): Gaes
+

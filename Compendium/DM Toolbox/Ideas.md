@@ -54,6 +54,11 @@ Could the evil trickster have been manipulating things from the start to cause t
 	- Will need tense music to fill space
 	- Let them know this is a one off gimmick and may not work
 
+### Places in [[The Library]]
+
+#### Retcon
+An ever changing place that has always been the same
+
 ### [[The Unobserved]]
 
 - Later in campaign have them transported to this realm (swapped with alternative versions of them who didn't die? need to reassert themselves as the true versions?) and work through alternative outcomes for things from their past

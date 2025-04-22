@@ -5,7 +5,7 @@ locations:
 displayLink: "[[The Trickster#The Trickster]]"
 ---
 ###### The Trickster
-<span class="sub2">:FasMapLocationDot: [[The Library#The Library]] | :FasHeartPulse: Unknown </span>
+<span class="sub2">:FasMapLocationDot: [[The Library]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]
@@ -37,7 +37,7 @@ ___
 >^IntroText
 
 ### Description
-Leader of [[The Editors]], [[The Archetypes]] representing characters who fight those more powerful than themselves with tricks, illusions and cleverness.
+Leader of [[The Editors]], [[The Archetypes]] representing characters who fight those more powerful than themselves with tricks, illusions and cleverness. This version of The Trickster believes the power of [[The Library]] is being wasted by [[The Authors]] who only want to maintain a stable timeline and not influence it for good. He is the warlock patron of various people, including [[Tibword Phirin]] and [[Dendrin]].
 
 #### Favourite Forms:
 - Loki
@@ -45,10 +45,11 @@ Leader of [[The Editors]], [[The Archetypes]] representing characters who fight 
 - Sisyphus
 
 ### Motivations
-- List of Motivations
+- Use [[The Library]]'s power to influence the timeline for good
 
 ### Magic Items / Abilities
-- None
+- Master of Illusion
+- Plane Shift
 
 ### Allies
 - [[The Editors]]

@@ -369,16 +369,6 @@
       "name": "NOTE",
       "fields": [
         {
-          "name": "Title",
-          "label": "Title:",
-          "description": "",
-          "isRequired": true,
-          "input": {
-            "type": "text",
-            "hidden": false
-          }
-        },
-        {
           "name": "Date",
           "label": "Date:",
           "description": "",

@@ -36,6 +36,7 @@ status: <% status %>
 ---
 ###### <% name %>
 <span class="sub2"> :FasCircleExclamation: Quest | :FasListCheck: `=this.status` | :FasUser: [[<% npc %>]] </span>
+
 ---
 
 > [!column|flex 3]

@@ -109,7 +109,6 @@ status: Ongoing
 > - In the evening on the second day, the museum hosts a figure drawing class.
 > - The cafe closes to regular diners, and for a fee of 3gp patrons get charcoal and paper, a live model to draw, and bottomless wine.
 > - Between their artwork and freely available drink, guests become much less attentive. For the duration of the class, doing something unnoticed in the café requires only a DC 10 Dexterity (Stealth) check
-> - [[Florence the Cat]] attends the event and talks to the players afterwards
 
 > [!recite|no-i nbrd] Guard Stats
 > - [[Wizard Guard]]: 
@@ -120,3 +119,13 @@ status: Ongoing
 > 	- Perception: +4 +Alarm Level
 > 	- Insight: +4 +Alarm Level
 > 	- passive Perception: 14
+
+> [!recite|no-i nbrd] Ending
+> - There are two possible endings depending on whether the *magic circle* enchantment has been disabled.
+>> [!recite|no-i clean] Magic Circle Enabled 
+> - When [[The Trickster's Book]] is removed from Ra's hand, [[Sekhemkare]] comes to life and attacks the players.
+> - The players must contend with this fight and any active security to escape the museum and reach [[The Trickster]] who can teleport them away.
+>> [!recite|no-i clean] Magic Circle Disabled
+> - [[The Trickster]] enters the museum when the spell is disabled and helps with the heist.
+> - [[The Noble]], as Dominic Bardi, attends the fundraiser but plans to sneak off to steal the book.
+> - Have [[The Noble]] discover them after they fight [[Sekhemkare]], enter a chase track. Whoever has the book when they leave the museum can plane shift away to safety.

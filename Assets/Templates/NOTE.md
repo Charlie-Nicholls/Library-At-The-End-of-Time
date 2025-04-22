@@ -36,7 +36,6 @@ function prevNumber() {
 // Call modal form & declare variables
 const result = await MF.openForm('NOTE');
 const date = result.Date.value;
-const title = result.Title.value;
 const number = nextNumber();
 const prevnumber = prevNumber();
 const name = `Chapter ${number}`;
@@ -61,7 +60,7 @@ _%>
 type: notes
 date: <% date %>
 displayLink: "[[<% name %>]]"
-alias: "<% title %>"
+alias: "TBD"
 chapter: <% number %>
 ---
 

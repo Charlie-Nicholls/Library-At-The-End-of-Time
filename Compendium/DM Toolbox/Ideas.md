@@ -8,12 +8,18 @@ displayLink: "[[Ideas]]"
 ___
 
 ### Rough Ideas
+
+#### The Narrator
 To defeat [[The Narrator]] they will need to find [[The Narrator's Book]] in the realm of story. 
 rough plan: have several adventures that influence the timeline -> messed up timeline causes shifts in the library which means they end up in a lost part of the library -> In escaping they end up freeing The Narrator -> probably at least one ends up unalive so we have a quest for that -> potentially a few more timeline disrupting moral quests -> they return to the library one day to find the narrator has returned and taken over, trapping most people in stories and bending reality -> The Author's contingency plan goes off, probably Tibword who goes back in time to remove the party from consideration to become librarians -> new timelines asserts itself where they simply died and the narrator was never freed -> they wake up in the unobserved -> they have to escape the unobserved to reassert the original timeline, an alternate version of the trickster will help them -> in doing so they free this alternate trickster and return the narrator -> come back just before the narrator takes over, go on quest to find the narrators book to defeat them and take back the library -> ? -> eventual fight with evil trickster as big bad
 
-Could the evil trickster have been manipulating things from the start to cause the timeline disruption that brings them back? Editing things from the future? maybe this trickster favours long term plans and runic magic rather than good tricksters illusions and playful trickery? How do both timelines exist at once? If someone reads [[The Trickster's Book]] they see two versions of events written over each other, one for the good and one for the bad trickster existing at the same time? Evil trickster steals the tricksters book to manipulate him? Provides the safe bang safe to eddie? Takes over the museum, uses it to keep the book, installing new safety features, use of runes and library references (sphinx, painting of gods)?
+#### Alternate Trickster
+Could the evil trickster have been manipulating things from the start to cause the timeline disruption that brings them back? Editing things from the future? maybe this trickster favours long term plans and runic magic rather than good tricksters illusions and playful trickery? How do both timelines exist at once? If someone reads [[The Trickster's Book]] they see two versions of events written over each other, one for the good and one for the bad trickster existing at the same time? Evil trickster steals the tricksters book to manipulate him? Provides the safe bang safe to Eddie? Takes over the museum, uses it to keep the book, installing new safety features, use of runes and library references (sphinx, painting of gods)?
 
-### Encounters
+#### Final Bosses
+[[The Alternate Trickster]], [[The Hero]], [[The Noble]] and [[The Fool]] are secretly an organisation, name tbd, that will be the endgame bosses of the campaign. They present an existential threat to [[The Library]] as a whole. Their plan should be a commentary on AI Generation, maybe they plan to expand their power by artificially generating books. Library of Babel, generates every book it's possible to write, don't need to rely on the mortals any more, flood the lower planes with the stories, expand the library's domain + power. What are the ramifications on mortals, the timeline, the library? How do they plan to do this? How can it be stopped?
+
+### Encounters / Session Ideas
 
 #### Better Pting
 - Put them on a spelljammer
@@ -54,10 +60,15 @@ Could the evil trickster have been manipulating things from the start to cause t
 	- Will need tense music to fill space
 	- Let them know this is a one off gimmick and may not work
 
+<<<<<<< HEAD
 ### Places in [[The Library]]
 
 #### Retcon
 An ever changing place that has always been the same
+=======
+#### False Memories
+Start a session with no context in the middle of a fight, maybe with a boss. Have it be implied they've had some adventure before hand but in actuality they've been put in some sort of illusion or story. Could be the narrator, the trickster or a malfunction of the library itself from the changing timeline. They then continue afterwards and there are clues that something is wrong. Maybe they're being tricked into doing something or being trapped in this story.
+>>>>>>> origin/dm
 
 ### [[The Unobserved]]
 

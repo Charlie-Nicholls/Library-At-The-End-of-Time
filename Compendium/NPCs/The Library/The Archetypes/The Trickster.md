@@ -5,12 +5,20 @@ locations:
 displayLink: "[[The Trickster#The Trickster]]"
 ---
 ###### The Trickster
+<<<<<<< HEAD
 <span class="sub2">:FasMapLocationDot: [[The Library]] | :FasHeartPulse: Friendly </span>
+=======
+<span class="sub2">:FasMapLocationDot: [[The Library#The Library]] | :FasHeartPulse: Friendly </span>
+>>>>>>> origin/dm
 ___
 
 > [!infobox|no-t right]
 > ![[imgLoki.jpg|350]]
->
+> 
+> | Form |
+> | :----: |
+> | :FasUser: Loki |
+> 
 > | Type | Stat |
 > | ---- | ---- |
 > | :FasBriefcase: Job |  Archetype |

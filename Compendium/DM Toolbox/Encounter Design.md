@@ -8,7 +8,7 @@ displayLink: "[[Encounter Design#Encounter Design]]"
 ___
 
 [8 tips to make your D&D boss fights LEGENDARY](https://www.youtube.com/watch?v=YUfmaDDc5Ho)
-
+[D&D Has 12 Combat Objectives, Actually](https://www.youtube.com/watch?v=HOqZozon2Vw)
 Change legendary resistance so the boss can transfer effects onto minions
 
 [Pointy Hat: Battlefield Actions](https://docs.google.com/document/d/e/2PACX-1vTjTP_2coEPSTQXcUX4AMlZGYRE2j0-5u9rV5nyjJUzYEMbRtTIGi46SrvNfBiPxgNWwH0Pig4Z2QuE/pub)

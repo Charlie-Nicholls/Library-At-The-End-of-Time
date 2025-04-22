@@ -36,7 +36,7 @@ The Wandering Museum
 	- A fundraising gala held after hours on the third day. A ticketed black-tie event.
 - The attendant informs all guests that no weapons, magic, food or drink are allowed in the galleries. Any characters with visible weapons are asked to leave them at the front desk. 
 - If asked about exhibits with books, the attendant (or any other employee) responds that books can be found in the [[#Arcane Calligraphy]], [[#Library]] or incorporated into several other exhibits.
-- One [[Museum Guard]] and one [[Wizard Guard]] stand at the entrance to the exhibits. The [[Wizard Guard]] has a gem of seeing that they use on anyone who appears suspicious. 
+- One [[Museum Guard]] and one [[Wizard Guard]] stand at the entrance to the exhibits. The [[Wizard Guard]] has a *Gem of Seeing* that they use on anyone who appears suspicious. 
 - At night, the front door is secured with a lock and sliding deadbolt. Using thieves' tools, a character can pick the lock with a successful DC 16 Dexterity (Sleight of Hand) check. The deadbolt can be moved with mage hand or similar.
 
 ### Area 2: Frescoes
@@ -126,7 +126,7 @@ On examining the table:
 
 ### Area 8: Divine Triptychs
 > [!recite|clean no-t]
->	 This L-shaped exhibit displays many painted triptychs. Each triptych is made of three elaborately framed panels hinged together, some the size of windows and others small enough to hang on a locket chain. The scenes in each triptych depict the myths and avatars of various gods. One guard stands watch on the west wall.
+>	This L-shaped exhibit displays many painted triptychs. Each triptych is made of three elaborately framed panels hinged together, some the size of windows and others small enough to hang on a locket chain. The scenes in each triptych depict the myths and avatars of various gods. One guard stands watch on the west wall.
 >^Area8
 
  - There is a [[Museum Guard]] by the western wall of the room. 
@@ -143,7 +143,7 @@ On examining the table:
 
 ### Area 10: Statuary
 > [!recite|clean no-t]
->	 Snowy marble statues flank the walls of this gallery. The figures are startlingly lifelike, adorned with fluid stone robes and placid, perfectly symmetrical faces. There is a discrete door in the western wall and a [[Sphinx Statue]] in the northwest corner.
+>	Snowy marble statues flank the walls of this gallery. The figures are startlingly lifelike, adorned with fluid stone robes and placid, perfectly symmetrical faces. There is a discrete door in the western wall and a [[Sphinx Statue]] in the northwest corner.
 >^Area10
 
 - There is a [[Sphinx Statue]] positioned in the north eastern corner of this gallery.
@@ -151,11 +151,11 @@ On examining the table:
 
 ### Area 11: Mithril of Ornhelm (R)
 > [!recite|clean no-t]
->	 Under heavier guard than the rest of the exhibits, pale metal items gleam from inside glass cases. Dwarf-sized jewellery, goblets, mirrors, armour and toys shine with silvery-blue metal.
+>	Under heavier guard than the rest of the exhibits, pale metal items gleam from inside glass cases. Dwarf-sized jewellery, goblets, mirrors, armour and toys shine with silvery-blue metal.
 >^Area11
 
 - The artworks held in this exhibit are the most valuable in the museum.
-- There are [[Museum Guards]] posted in the north eastern and south sides of the gallery, and a [[Wizard Guard]] on the eastern wall. The two south eastern guard positions are occupied at night.
+- There are [[Museum Guard]]s posted in the north eastern and south sides of the gallery, and a [[Wizard Guard]] on the eastern wall. The two south eastern guard positions are occupied at night.
 - There is a forcecage rune carved 12 feet up the eastern wall of the exhibit.
 	- Each forcecage rune looks like a circle split into three parts, representing the three total runes that power the forcecages.
 	- Players who succeed on a DC 12 Intelligence (Investigation) check notice similarities with the exhibits in the Arcane Calligraphy gallery. Players who succeed by 4 or more realize that this is one of three glyphs in a set.
@@ -166,7 +166,7 @@ On examining the table:
 
 ### Area 12: Scriptorium (R)
 > [!recite|clean no-t]
->	 This cluttered room is filled with papers, files and inkwells. A magnificent wood table covered with a thick sheet of clear quartz dominates the room. A young elvish man with ink smeared on his cheek is busy at the bookshelf.
+>	This cluttered room is filled with papers, files and inkwells. A magnificent wood table covered with a thick sheet of clear quartz dominates the room. A young elvish man with ink smeared on his cheek is busy at the bookshelf.
 >^Area12
 
 - This room is the domain of [[Luca Lomeo]], the museum's scribe.
@@ -182,14 +182,14 @@ On examining the table:
 
 ### Area 13: Offices
 > [!recite|clean no-t]
->	 A practical office outfitted with the usual furnishings desk, bookshelves, and overflowing waste basket.
+>	A practical office outfitted with the usual furnishings desk, bookshelves, and overflowing waste basket.
 >^Area13
 
 - These offices contain little besides personal affects, though some of the books have resale value.
 
 ### Area 14: Dr. Halftusk's Office
 > [!recite|clean no-t]
->	 A placard on the outside of the door reads “Dr. Carda Halftusk, Senior Curator.” Inside, the large office is graced with windows overlooking the street outside. An L-shaped desk takes up the north end of the room, a double bookshelf the south.
+>	A placard on the outside of the door reads “Dr. Carda Halftusk, Senior Curator.” Inside, the large office is graced with windows overlooking the street outside. An L-shaped desk takes up the north end of the room, a double bookshelf the south.
 >^Area14
 
 - There is a 50% chance that [[Dr Carda Halftusk]] is in her office.
@@ -198,7 +198,7 @@ On examining the table:
 
 ### Area 15: Meeting Room
 > [!recite|clean no-t]
->	 Large tables and ambient boredom - a conference room.
+>	Large tables and ambient boredom - a conference room.
 >^Area15
 
 - [[Dr Carda Halftusk]] leads players who attend the seminar through the staff area to the southwestern meeting room, where the class takes place.
@@ -206,7 +206,7 @@ On examining the table:
 
 ### Area 16: Cafe and Shop (R)
 > [!recite|clean no-t]
->	 Beautiful frescoes cover the ceiling of this room. On the south side of the room, shelves display books about art history and miniature replicas of the museum's famous statues. On the north side of the room, guests can enjoy cafe fare at clustered tables and chairs. A chalkboard sign next to the cashier on the north wall displays upcoming events.
+>	Beautiful frescoes cover the ceiling of this room. On the south side of the room, shelves display books about art history and miniature replicas of the museum's famous statues. On the north side of the room, guests can enjoy cafe fare at clustered tables and chairs. A chalkboard sign next to the cashier on the north wall displays upcoming events.
 >^Area16
 
 - The ceiling of this room is 20 feet high. There is a gap in the painted plaster above the northern side of the room, and there is a *forcecage* rune carved into the ceiling there.
@@ -219,22 +219,22 @@ On examining the table:
 
 ### Area 17: Dominic Bardi Gallery
 > [!recite|clean no-t]
->	 Dozens of tiny shelves cover the walls of this gallery. Teapots and teacups in patterned porcelain dominate the northern and eastern walls, while the southern wall shows a display of painted violins. One guard stands watch on the southern wall.
+>	Dozens of tiny shelves cover the walls of this gallery. Teapots and teacups in patterned porcelain dominate the northern and eastern walls, while the southern wall shows a display of painted violins. One guard stands watch on the southern wall.
 >^Area17
 
 - A [[Wizard Guard]] is stationed at the head of the staircase. Their main job is to remind guests that they cannot bring food out of the café area. This guard station is occupied at night.
 
 ### Area 18: Egyptology Exhibit
 > [!recite|clean no-t]
->	 Around the room are various cylindrical tanks based with sand on which sits a plethora of Egyptian themed sculptures. A replica pyramid and a larger meaner looking sphinx amongst them with the godSetand pharaoh's coffin facing each other in the centre. There is a guard on watch in the southeast corner, an elderly artist working in the northeast corner, and a [[Sphinx Statue]] in the northwest corner.
+>	Around the room are various cylindrical tanks based with sand on which sits a plethora of Egyptian themed sculptures. A replica pyramid and a larger meaner looking sphinx amongst them with the god Ra and pharaoh's coffin facing each other in the centre. There is a guard on watch in the southeast corner, an elderly artist working in the northeast corner, and a Sphinx Statue in the northwest corner.
 >^Area18
 
 - The sand inside the sculpture tanks makes the *forcecages* more noticeable in this exhibit.
 - An elderly halfling of indeterminate gender sits on a bench in the north eastern corner. They are painting a watercolour of one of the statues on a small pad. If asked about their work, the painter complains that, "These damn *forcecages* make the water hard to paint."
 - There is a [[Sphinx Statue]] in the northwest corner and one [[Museum Guard]] in the south east corner
-- Any player who comes within 10 feet of the Ra's tank will notice it holds the [[The Trickster's Book]], disguised bearing falcon with wings spread holding the sun. Hieroglyphs read "The Trickster" if translated.
+- Any player who comes within 10 feet of Set's tank will notice it holds the [[The Trickster's Book]], disguised bearing falcon with wings spread holding the sun. Hieroglyphs read "The Trickster" if translated.
 - The plaque below the pharaoh's coffin exhibit proclaims it is authentic, taken from the tomb of [[Sekhemkare]].
-- A player who examines the coffin, book orSetand succeeds on a DC 12 Intelligence (Arcana) check sees a magical thread connecting the two exhibits and on DC 17 that it is from the school of illusion.
+- A player who examines the coffin, book or Ra and succeeds on a DC 12 Intelligence (Arcana) check sees a magical thread connecting the two exhibits and on DC 17 that it is from the school of illusion.
 - Touching [[The Trickster's Book]] will drop the illusion magic on [[Sekhemkare]], and animate the mummy.
 
 ### Map

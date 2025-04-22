@@ -19,6 +19,11 @@ Could the evil trickster have been manipulating things from the start to cause t
 #### Final Bosses
 [[The Alternate Trickster]], [[The Hero]], [[The Noble]] and [[The Fool]] are secretly an organisation, name tbd, that will be the endgame bosses of the campaign. They present an existential threat to [[The Library]] as a whole. Their plan should be a commentary on AI Generation, maybe they plan to expand their power by artificially generating books. Library of Babel, generates every book it's possible to write, don't need to rely on the mortals any more, flood the lower planes with the stories, expand the library's domain + power. What are the ramifications on mortals, the timeline, the library? How do they plan to do this? How can it be stopped?
 
+### Loose Threads
+1. How did [[The Trickster's Book]] get into the [[Wandering Museum]] given it couldn't teleport in? Did someone take it inside?
+2. Why did [[Sekhemkare]] have a magic thread connecting it to the book? Did he take the book in?
+3. Postulated link between runic magic in the [[Wandering Museum]] and [[Safe Bang Safe]], designed by the same person?
+
 ### Encounters / Session Ideas
 
 #### Better Pting

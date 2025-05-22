@@ -41,6 +41,10 @@ Could the evil trickster have been manipulating things from the start to cause t
 - Do this if they fight [[The Trickster]]
 - Maybe introduce this idea with a more simple geometry, e.g. sphere or torus then do later fights on a more complex geometries, e.g. klein bottle, 4d 
 
+#### Hexcode Puzzle
+make a puzzle where they have to rotate a large triangle looking thing with 6 levers than can be set to 16 points. This corresponds to a hexcode colour wheel. Have the instructions be the words in hexcode that need to be entered. something like
+\#C1O5ED -> \#DEC0DE -> \#FACADE -> \#ACCE55
+
 #### Monster with immunities to most types of damage but low hp
 - Shifts damage type throughout fight
 - Play into [[Dreisfor]]'s damage type abilities
@@ -65,15 +69,13 @@ Could the evil trickster have been manipulating things from the start to cause t
 	- Will need tense music to fill space
 	- Let them know this is a one off gimmick and may not work
 
-<<<<<<< HEAD
+#### False Memories
+Start a session with no context in the middle of a fight, maybe with a boss. Have it be implied they've had some adventure before hand but in actuality they've been put in some sort of illusion or story. Could be the narrator, the trickster or a malfunction of the library itself from the changing timeline. They then continue afterwards and there are clues that something is wrong. Maybe they're being tricked into doing something or being trapped in this story.
+
 ### Places in [[The Library]]
 
 #### Retcon
 An ever changing place that has always been the same
-=======
-#### False Memories
-Start a session with no context in the middle of a fight, maybe with a boss. Have it be implied they've had some adventure before hand but in actuality they've been put in some sort of illusion or story. Could be the narrator, the trickster or a malfunction of the library itself from the changing timeline. They then continue afterwards and there are clues that something is wrong. Maybe they're being tricked into doing something or being trapped in this story.
->>>>>>> origin/dm
 
 ### [[The Unobserved]]
 

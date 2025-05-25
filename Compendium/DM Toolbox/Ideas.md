@@ -87,3 +87,5 @@ Start a session with no context in the middle of a fight, maybe with a boss. Hav
 - [[Dreisfor's Adaptable Gun]]
 	- Scale damage with level
 	- Need kits to use certain damage types, e.g. poisoners kit for poison
+
+- Item which casts a spell that can be cast with any of the spellcasting abilities and has a different effect based on whichever you use

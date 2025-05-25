@@ -4,7 +4,7 @@ target:
   - "[[The Party]]"
 locations: 
 displayLink: "[[Museum Heist]]"
-status: Ongoing
+status: Completed
 ---
 ###### Museum Heist
 <span class="sub2"> :FasCircleExclamation: Quest | :FasListCheck: `=this.status` | :FasUser: [[The Trickster]] </span>

@@ -2,7 +2,7 @@
 type: notes
 date: 2025-04-21
 displayLink: "[[Chapter 08]]"
-alias: "Secret"
+alias: "We Explode The Plumbing (Again)"
 chapter: 08
 ---
 

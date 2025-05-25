@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiNotepadText",
-      "LiBookLock",
-      "FasBookOpenReader",
       "FasUserPen",
       "LiLayoutList",
       "FasAlignJustify",
       "RiQuestionFill",
       "FasBook",
       "FasRing",
-      "RiSafe2Fill"
+      "RiSafe2Fill",
+      "LiSkull",
+      "FasBandage",
+      "FasDog"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -171,9 +171,5 @@
   "Compendium/DM Toolbox/Statblocks/Sphinx Statue.md": "LiLayoutList",
   "Compendium/DM Toolbox/Statblocks/Wizard Guard.md": "LiLayoutList",
   "Compendium/DM Toolbox/Statblocks/Wandering Spirit.md": "LiLayoutList",
-  "Compendium/NPCs/The Library/The Archetypes/The Alternate Trickster.md": "FasUserPen",
-  "Compendium/Party/Quests/The Narrator's Prison.md": "LiBookLock",
-  "Compendium/NPCs/The Library/The Archetypes/The Noble.md": "FasUserPen",
-  "Session Notes/Chapter 07.md": "LiNotepadText",
-  "Session Notes/Chapter 08.md": "LiNotepadText"
+  "Compendium/NPCs/The Library/The Archetypes/The Alternate Trickster.md": "FasUserPen"
 }

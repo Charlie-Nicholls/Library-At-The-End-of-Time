@@ -19,6 +19,11 @@ Could the evil trickster have been manipulating things from the start to cause t
 #### Final Bosses
 [[The Alternate Trickster]], [[The Hero]], [[The Noble]] and [[The Fool]] are secretly an organisation, name tbd, that will be the endgame bosses of the campaign. They present an existential threat to [[The Library]] as a whole. Their plan should be a commentary on AI Generation, maybe they plan to expand their power by artificially generating books. Library of Babel, generates every book it's possible to write, don't need to rely on the mortals any more, flood the lower planes with the stories, expand the library's domain + power. What are the ramifications on mortals, the timeline, the library? How do they plan to do this? How can it be stopped?
 
+### Loose Threads
+1. How did [[The Trickster's Book]] get into the [[Wandering Museum]] given it couldn't teleport in? Did someone take it inside?
+2. Why did [[Sekhemkare]] have a magic thread connecting it to the book? Did he take the book in?
+3. Postulated link between runic magic in the [[Wandering Museum]] and [[Safe Bang Safe]], designed by the same person?
+
 ### Encounters / Session Ideas
 
 #### Better Pting
@@ -35,6 +40,10 @@ Could the evil trickster have been manipulating things from the start to cause t
 	- Missed ranged attacks can wrap around
 - Do this if they fight [[The Trickster]]
 - Maybe introduce this idea with a more simple geometry, e.g. sphere or torus then do later fights on a more complex geometries, e.g. klein bottle, 4d 
+
+#### Hexcode Puzzle
+make a puzzle where they have to rotate a large triangle looking thing with 6 levers than can be set to 16 points. This corresponds to a hexcode colour wheel. Have the instructions be the words in hexcode that need to be entered. something like
+\#C1O5ED -> \#DEC0DE -> \#FACADE -> \#ACCE55
 
 #### Monster with immunities to most types of damage but low hp
 - Shifts damage type throughout fight
@@ -62,6 +71,11 @@ Could the evil trickster have been manipulating things from the start to cause t
 
 #### False Memories
 Start a session with no context in the middle of a fight, maybe with a boss. Have it be implied they've had some adventure before hand but in actuality they've been put in some sort of illusion or story. Could be the narrator, the trickster or a malfunction of the library itself from the changing timeline. They then continue afterwards and there are clues that something is wrong. Maybe they're being tricked into doing something or being trapped in this story.
+
+### Places in [[The Library]]
+
+#### Retcon
+An ever changing place that has always been the same
 
 ### [[The Unobserved]]
 

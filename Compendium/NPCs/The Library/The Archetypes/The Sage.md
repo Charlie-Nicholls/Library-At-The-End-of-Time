@@ -5,7 +5,7 @@ locations:
 displayLink: "[[The Sage]]"
 ---
 ###### The Sage
-<span class="sub2">:FasMapLocationDot: [[The Library#The Library]] | :FasHeartPulse: Unknown </span>
+<span class="sub2">:FasMapLocationDot: [[The Library]] | :FasHeartPulse: Friendly </span>
 ___
 
 > [!infobox|no-t right]

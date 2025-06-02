@@ -59,14 +59,15 @@ ___
 > 	- Saving this information has a massive knock on effect on the timeline causing turmoil that messes up their travel back to [[The Library]] causing them to end up in [[The Narrator's Prison]]
 
 ### Notes
-Foreshadowing the player's missed:
- - [[The Trickster]]'s symbol on his book matches that found on the floor
- - Mention of one other Archetype who had to be "Exiled"
- - [[The Trickster]] says he will have to make a 4D prison for his book, something he says he has done before
- - [[The Trickster]] talks about how [[The Archetypes]] come in pairs before listing all of them [[The Sage]] + [[The Fool]], [[The Hero]] + [[The Villain]], himself + [[The Noble]], [[The Knight]] + [[The Monster]], he then mentions another called [[The Damsel]] is lost, but doesn't say who their complement is.
- - "Trapped, Free", "Free, Me"
- - Symbol of speech bubble similar to that of the other archetypes but for The Narrator
- - 
+- Foreshadowing the player's missed:
+	- [[The Trickster]]'s symbol on his book matches that found on the floor
+	 - Mention of one other Archetype who had to be "Exiled"
+	 - [[The Trickster]] says he will have to make a 4D prison for his book, something he says he has done before
+	 - [[The Trickster]] talks about how [[The Archetypes]] come in pairs before listing all of them [[The Sage]] + [[The Fool]], [[The Hero]] + [[The Villain]], himself + [[The Noble]], [[The Knight]] + [[The Monster]], he then mentions another called [[The Damsel]] is lost, but doesn't say who their complement is.
+	 - "Trapped, Free", "Free, Me"
+	 - Symbol of speech bubble similar to that of the other archetypes but for The Narrator
+
+- Dendrin still has the book which he wrote in at the start
 
 ### Summary
 [[Dendrin]] gave [[The Trickster]] back his book, for a moment seeing his true ancient shifting form. When he held it the book reverted to its default form with [[The Trickster]]'s name and symbol on it. You then met [[Aldra Lamnem|Aldra]] and [[The Hero]] and debriefed them on the mission, [[The Trickster]] telling you more about [[The Archetypes]]. That they tend to come in complimentary pairs, his being [[The Noble]], that most lived in [[The Library]] but a few did not. [[The Monster]] lives on the boundary of [[The Library]] and the [[Land of Myth and Legend]], where the Baselisks you met are from, [[The Damsel]] who is lost and two who were 'exiled'. One of whom was [[The Noble]], who's plans for power were thwarted by [[The Trickster]] and who he has resented ever since.

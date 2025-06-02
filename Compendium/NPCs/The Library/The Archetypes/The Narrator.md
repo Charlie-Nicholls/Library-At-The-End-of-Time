@@ -3,9 +3,10 @@ type: npc
 locations:
  - "[[Unknown]]"
 displayLink: "[[The Narrator]]"
+alias: "Scheherazade"
 ---
 ###### The Narrator
-<span class="sub2">:FasMapLocationDot: [[Unknown]] | :FasHeartPulse: Hostile </span>
+<span class="sub2">:FasMapLocationDot: [[The 1001 Nights]] | :FasHeartPulse: Hostile </span>
 ___
 
 > [!infobox|no-t right]
@@ -47,13 +48,16 @@ The most dangerous of [[The Archetypes]], The Narrator has the power to bend sto
 - List of Motivations
 
 ### Magic Items / Abilities
-- None
+- Warps reality using words and stories
 
 ### Allies
-- [[Characters]] or [[Organisations]]
+- None
 
 ### Enemies
-- [[Characters]] or [[Organisations]]
+- [[The Authors]]
+- [[The Trickster]]
+- [[The Sage]]
+- [[The Noble]]
 
 ### Secrets
 - None

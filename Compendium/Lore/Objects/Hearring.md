@@ -31,3 +31,5 @@ FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party/Player Characters" AND [[#
 
 ### Description
 A trio of rings, owned by [[The Trickster]] which can be used to communicate up to a range of 300ft. If you talk while touching the Hearring and anyone wearing the other two Hearrings will hear you. [[The Trickster]] can use illusion magic to change their style to suit the wearer.
+
+After [[Chapter 08|We Explode The Plumbing (Again)]], [[The Trickster]] let's them keep the two Hearrings they were using, but keep the attuned third which he uses to spy on anything they say with them active.

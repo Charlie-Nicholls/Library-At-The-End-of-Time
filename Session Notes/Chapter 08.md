@@ -22,6 +22,7 @@ ___
 >> - [[The Trickster]]
 >> - [[Rinaldo Bardi]]
 >> - [[Dr Carda Halftusk]]
+>> - [[The Noble]]
 >
 >> [!example|flex]- LOCATIONS:
 >> - [[Wandering Museum]]
@@ -39,7 +40,7 @@ ___
 
 > [!recite|no-i nbrd] Nivea's Side quest
 > - If [[Nivea]] is able to read [[The Trickster's Book]] and chooses something recent, show them the pre-prepared text
-> - If they choose the past describe the betrayal of [[The Noble]] and the even further past the fight with [[The Narrator]]
+> - If they choose the past describe the betrayal of [[The Noble]] and the even further past the fight with The Narrator
 
 > [!recite|no-i nbrd] Dreisfor's Offer
 > - [[Rinaldo Bardi]] told his uncle about meeting [[Dreisfor]] and [[The Noble]] has guessed from his description that he is someone else trying to rob the museum

@@ -993,6 +993,144 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Word Eater",
+      {
+        "image": null,
+        "name": "Word Eater",
+        "source": "CritterDB",
+        "type": "Construct",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "",
+        "hp": 18,
+        "hit_dice": "NaNd8 + 0",
+        "ac": 16,
+        "speed": "40 ft.",
+        "stats": [
+          14,
+          12,
+          10,
+          9,
+          14,
+          7
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "psychic",
+        "damage_vulnerabilities": "lightning",
+        "condition_immunities": "unconscious, charmed, frightened",
+        "saves": [],
+        "skillsaves": [
+          {
+            "Perception": 4
+          },
+          {
+            "Stealth": 3
+          }
+        ],
+        "senses": "Darkvision 60 ft.",
+        "languages": "All",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "Abduct",
+            "desc": "The Word Eater needn't spend extra movement to move a creature it is grappling."
+          },
+          {
+            "name": "Fourth Wall",
+            "desc": "While inside The Library, The Word Eater can move short distances in the 4th dimension. It does not provoke attacks of opportunity when moving in this way. If the Word Eater ends its turn in 4D space it takes 7 (2d6) force damage."
+          },
+          {
+            "name": "Language Sense",
+            "desc": "The Word Eater can sense all spoken and written language within 120ft. of its location."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Word Eater makes 2 Bite attacks or 2 Dart attacks in any combination."
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack: +4 (with Advantage if the target is Grappled by the Word Eater), reach 5 ft., one target. Hit: 7 (1d4 + 2) piercing damage."
+          },
+          {
+            "name": "Dart",
+            "desc": "Ranged Weapon Attack: +3, range 20/60 ft., one target. Hit: 6 (2d4 + 1) piercing damage."
+          },
+          {
+            "name": "Grab",
+            "desc": "Melee Weapon Attack: +4, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. If the target is a Medium or smaller creature, it has the Grappled condition (escape DC 12)."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": []
+      }
+    ],
+    [
+      "King Shahryar",
+      {
+        "image": null,
+        "name": "King Shahryar",
+        "source": "CritterDB",
+        "type": "Construct",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "Unaligned",
+        "hp": 162,
+        "hit_dice": "25d8 + 50",
+        "ac": 14,
+        "speed": "30 ft.",
+        "stats": [
+          12,
+          14,
+          14,
+          12,
+          10,
+          12
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "wisdom": 3
+          }
+        ],
+        "skillsaves": [],
+        "senses": "",
+        "languages": "",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Runic Power",
+            "desc": "King Shahryar is powered by three runes and takes 44 (8d8) damage when one is destroyed."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "King Shahryar makes two Rapier attacks and triggers one Power Rune."
+          },
+          {
+            "name": "Power Rune",
+            "desc": "King Shahryar powers the effects of one of the three runes which he controls if they have not been deactivated, the effect occurs at the start of his next turn. Red Rune : Spawn two Word Eaters.  Blue Rune : Any humanoids within 30 ft. of King Shahrayr must make a DC 16 Charisma saving throw taking 14 (4d6) damage on a Failure and half damage on a Success.  Green Rune : Any creature within 120 ft. of King Shahrayr must make a DC 16 Wisdom saving, on a Failure they forget any languages they know. The creature repeats the save at the start of each of their turns."
+          },
+          {
+            "name": "Rapier",
+            "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [
+          {
+            "name": "Swap Dimension",
+            "desc": "King Shahryar shifts plane, arriving at the nearest open spot in the opposite plane. This does not provoke opportunity attacks."
+          }
+        ]
+      }
     ]
   ],
   "defaultLayouts": {

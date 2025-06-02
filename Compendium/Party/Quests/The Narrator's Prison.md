@@ -26,20 +26,37 @@ Deep in [[The Library]] lies the lost prison of one of the most dangerous creatu
  - [[#]]
 
 ### Themes
-Prison to contain a being powered by words and stories. Guarded by creatures who attack anyone who speaks or possesses writing. 
+Prison to contain a being powered by words and stories. Guarded by [[Word Eater|Word Eaters]] who attack anyone who speaks or possesses writing. 
 1001 Arabian nights due to the narrator taking the form of Scheherazade
-[The 5 Room Dungeon is a Story Structure](https://www.youtube.com/watch?v=5pB-KR_u15o)
 
-Prison was created long ago by [[The Trickster]], [[The Sage]], [[The Hero]] and [[The Villain]]
+Prison was created long ago by [[The Trickster]], [[The Sage]], [[The Hero]] and [[The Noble]]:
+- [[The Noble]] created [[King Shahryar]], he wears jewellery inscribed with [[The Noble]]'s symbol: a stack of coins
+- [[The Sage]] created the [[Word Eater|Word Eaters]], the have branded into their carapace [[The Sage]]'s symbol: an owl
+- [[The Trickster]] created the prison itself, tricking [[The Narrator]] into her own stories
+- [[The Hero]] 
+
 
 ### Plan
 
-> [!recite|no-i nbrd] Entrance - [[The Trickster]]
+#### Scheherazade
+[[The Narrator|Scheherazade]] appears at the periphery of each of the stories. One can approach her by leaving the focus of the story, where the reality begins to become vague and two dimensional. She can be seen to be talking continuously in a language they do not understand and which cannot be heard. 
 
-> [!recite|no-i nbrd] Puzzle - [[The Sage]]
+#### Library Rooms
 
-> [!recite|no-i nbrd] Trick or Setback - [[The Villain]]
+#### Story Rooms
 
-> [!recite|no-i nbrd] Climax - [[The Hero]]
+> [!recite|no-i nbrd] Aladdin and the Wonderful Lamp (691)
+> - Entrance: **Magic Ring**
+> - Exit: **Oil Lamp**
+> - Characters: *Aladdin* | *Princess Badroulbadour* | *Genie of the Ring* | *Genie of the Lamp* | *Abanazar*
+> - Scenario: Aladdin is dejected, having just had his palace and wife stolen from him by Abanazar and transported to Maghreb. 
 
-> [!recite|no-i nbrd] The Narrator is Freed
+> [!recite|no-i nbrd] Sindbad the Seaman (549)
+> - Entrance: **Diamonds**
+> - Exit: **Bird's Nest**
+> - Characters: *Sinbad* | *[[Giant Eagle]]* | *[[Giant Venomous Snake]]* | *Merchants*
+> - Scenario: Sinbad has been abandoned by his crew and found himself stranded in a valley full of giant snakes and giant eagles that feed on them. Merchants throw huge chunks of meat into the valley to get the birds to carry them back to their nests with diamonds stuck to them.
+
+#### Fight with King Shahryar
+
+In the library side of the final room is a vast collection of books connected by various arcane magics and runes. There are 3 runes that power [[King Shahryar]], players may use an action to destroy them if found.

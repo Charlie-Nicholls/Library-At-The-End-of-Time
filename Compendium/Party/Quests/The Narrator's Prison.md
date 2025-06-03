@@ -60,3 +60,5 @@ Prison was created long ago by [[The Trickster]], [[The Sage]], [[The Hero]] and
 #### Fight with King Shahryar
 
 In the library side of the final room is a vast collection of books connected by various arcane magics and runes. There are 3 runes that power [[King Shahryar]], players may use an action to destroy them if found.
+
+Have him activate the runes on legendary actions. One of the runes makes everyone within 15 ft. of any Word Eater make a wisdom save that if failed means they forget all their known languages, repeat save at the end of their turn.

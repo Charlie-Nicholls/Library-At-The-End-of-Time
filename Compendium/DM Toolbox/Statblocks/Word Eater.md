@@ -4,13 +4,20 @@ locations:
   - "[[The 1001 Nights]]"
 displayLink: "[[Word Eater]]"
 ---
+###### Word Eater
+<span class="sub2">:LiLayoutList: Construct </span>
+
+___
 
 > [!recite|clean no-t]
 >	
 >^IntroText
 
 ### Description
-One of two types of guards present at the [[Wandering Museum]].
+Constructs designed by [[The Sage]] to guard [[The Narrator's Prison]] and consume all language within.
+
+> [!recite|clean no-t]
+> ![[imgWordEater.webp]]
 
 ### Statblock
 ```statblock
@@ -22,7 +29,7 @@ subtype: ""
 size: Medium
 alignment: ""
 hp: 18
-hit_dice: NaNd8 + 0
+hit_dice: 
 ac: 16
 speed: 40 ft.
 stats:

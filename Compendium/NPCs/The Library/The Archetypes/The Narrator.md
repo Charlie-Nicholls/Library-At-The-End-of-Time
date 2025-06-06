@@ -64,4 +64,17 @@ The most dangerous of [[The Archetypes]], The Narrator has the power to bend sto
 
 ### Statblock
 >```statblock
-name: The Narrator
+> name: The Narrator
+> speed: 30
+> ac: 17
+> hp: 221
+> stats: [14,13,18,18,15,21]
+> languages: All
+> saves: [charisma: 8]
+> skillsaves: [persuasion: 12,deception: 12,insight: 9,perception: 9]
+> cr: 13
+> spells:
+>   - "The Narrator casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 18):"
+>   - At Will: Detect Magic, Detect Thoughts, Disguise Self, Minor Illusion
+>   - 2/Day Each: Charm Person, Suggestion,
+>   - 1/Day Each: Hold Person, Mass Suggestion, Gaes

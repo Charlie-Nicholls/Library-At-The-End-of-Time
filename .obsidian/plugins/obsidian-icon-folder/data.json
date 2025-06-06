@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNotepadText",
       "LiBookLock",
       "FasBookOpenReader",
       "FasUserPen",
@@ -14,8 +15,7 @@
       "RiQuestionFill",
       "FasBook",
       "FasRing",
-      "RiSafe2Fill",
-      "LiSkull"
+      "RiSafe2Fill"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -176,5 +176,8 @@
   "Compendium/Atlas/The Abstract/The Library/The 1001 Nights": "FasBookOpenReader",
   "Compendium/DM Toolbox/Statblocks/Word Eater.md": "LiLayoutList",
   "Compendium/Party/Quests/The Narrator's Prison.md": "LiBookLock",
-  "Compendium/NPCs/Other": "RiQuestionFill"
+  "Compendium/NPCs/Other": "RiQuestionFill",
+  "Session Notes/Chapter 07.md": "LiNotepadText",
+  "Session Notes/Chapter 08.md": "LiNotepadText",
+  "Session Notes/Chapter 09.md": "LiNotepadText"
 }

@@ -1,58 +1,22 @@
 ---
-type: npc
+type: statblock
 locations:
- - "[[The 1001 Nights]]"
+  - "[[The 1001 Nights]]"
 displayLink: "[[King Shahryar]]"
 ---
 ###### King Shahryar
-<span class="sub2">:FasMapLocationDot: [[The 1001 Nights]] | :FasHeartPulse: Hostile </span>
+<span class="sub2">:LiLayoutList: Construct </span>
 ___
 
-> [!infobox|no-t right]
-> ![[portrait.jpg|350]]
->
-> | Type | Stat |
-> | ---- | ---- |
-> | :FasBriefcase: Job |   |
-> | :FasVenusMars: Gender | Male |
-> | :FasUser: Race | Construct |
-> | :FasClock: Age |  |
->
->> [!info]- STORYLINES
->>```dataview
->>LIST WITHOUT ID displayLink
->>FROM "Compendium/Party/Quests" AND [[#]]
->
->>[!note]- HISTORY
->>```dataview
->>LIST WITHOUT ID displayLink
->>FROM "Session Notes" AND [[#]]
->
->^InfoBox
-
-# Profile
-
 > [!recite|clean no-t]
->	Introduction for players
+>	
 >^IntroText
 
 ### Description
-Description
+[[The Narrator|Scheherazade]]'s King in [[The 1001 Nights]]. Built by [[The Noble]] long ago to protect [[The 1001 Nights]] and guard [[The Narrator]].
 
-### Motivations
-- List of Motivations
-
-### Magic Items / Abilities
-- None
-
-### Allies
-- [[Characters]] or [[Organisations]]
-
-### Enemies
-- [[Characters]] or [[Organisations]]
-
-### Secrets
-- None
+> [!recite|clean no-t]
+> ![[]]
 
 ### Statblock
 >```statblock
@@ -86,7 +50,7 @@ Description
 > cr: 2
 > traits:
 >   - name: Runic Power
->     desc: King Shahryar is powered by three runes and takes 44 (8d8) damage when one is destroyed.
+>     desc: King Shahryar is powered by three runes and takes 32 (8d8) damage when one is destroyed.
 > actions:
 >   - name: Multiattack
 >     desc: King Shahryar makes two Rapier attacks and triggers one Power Rune.
@@ -98,4 +62,6 @@ Description
 > legendary_actions:
 >   - name: Swap Dimension
 >     desc: King Shahryar shifts plane, arriving at the nearest open spot in the opposite plane. This does not provoke opportunity attacks.
+>   - name: Power Rune
+>     desc: King Shahryar uses his Power Rune ability. With the activation coming at the end of the creature who's initiative this happens after.
 > ```

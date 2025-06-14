@@ -2,7 +2,7 @@
 type: notes
 date: TBD
 displayLink: "[[Chapter 09]]"
-alias: "TBD"
+alias: "We Take A Disliking To Sinbad"
 chapter: 09
 ---
 

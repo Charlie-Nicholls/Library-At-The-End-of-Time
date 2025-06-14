@@ -20,4 +20,3 @@ for (let i=0; i < pages.length; i++) {
 dv.list(chapters)
 dv.list(pages[1])
 ```
-

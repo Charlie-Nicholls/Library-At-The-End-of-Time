@@ -32,8 +32,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A young man dressed in an overfine cloak and curled shoes, he keeps one eyebrow quirked in a fixed expression of ironic incredulity.
+> [!boxed|no-t]
+> A young man dressed in an overfine cloak and curled shoes, he keeps one eyebrow quirked in a fixed expression of ironic incredulity.
 >^IntroText
 
 ### Description

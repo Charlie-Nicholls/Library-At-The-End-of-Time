@@ -11,8 +11,8 @@ displayLink: "[[City of the Dead#City of the Dead]]"
 <span class="sub2">:FasGhost: Cemetery</span>
 ___
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description

@@ -25,8 +25,8 @@ ___
 >LIST WITHOUT ID displayLink
 >FROM "Session Notes" AND [[Baselisk Egg]]
 
-> [!recite|clean no-t]
->	A stone slightly larger than an ostrich egg.   
+> [!boxed|no-t]
+> A stone slightly larger than an ostrich egg.   
 >^IntroText
 
 ### Description

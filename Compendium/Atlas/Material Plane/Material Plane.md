@@ -8,8 +8,8 @@ displayLink: "[[Material Plane#Material Plane]]"
 <span class="sub2">:FasCircleHalfStroke: Plane of Existence</span>
 ___
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description

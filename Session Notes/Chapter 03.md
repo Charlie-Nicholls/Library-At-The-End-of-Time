@@ -49,8 +49,8 @@ ___
 > [!recite|no-i nbrd] Flashback
 > - [[Tibword Phirin]] takes [[Dendrin]] to meet [[The Trickster]]
 >
->> [!recite|clean no-t]
->>	Tibword leads you through various corridors, after a good few minutes of walking you notice the path you're taking doesn't make any sense. You could swear you've taken 8 or 9 left turns in a row and you're sure you should've ended up back where you started but Tibword continues to stride forward confidently. At that moment you pass a nondescript door, your eyes seem to pass over it and you'd have forgotten it the moment you stepped past if Tibword hadn't put a hand out and said "Stop. Okay now don't look directly at the door, it's easier not to get misdirected if you just sort of back into it." He leads you backwards and reaches behind himself to grasp at the hand and open it. When you enter the room you turn around to see, well you aren't sure. The room contains plenty of books on long shelves you've gotten used to, except it doesn't fit in space the way you're used. Many books are shelved in direct contradiction to gravity, some shelves seem to pass through each other, the further away from yourself you look, the harder it is to focus on or make sense of. Far away above and possibly also below you, you can see a small figure moving through the shelves before they notice your presence and before you can even think to blink, they're right in front of you. A shortish figure, maybe a halfling, with a bright smile and dark clothes. "Well Dr Phirin, who've you brought to me this time?"
+>> [!boxed|no-t]
+>> Tibword leads you through various corridors, after a good few minutes of walking you notice the path you're taking doesn't make any sense. You could swear you've taken 8 or 9 left turns in a row and you're sure you should've ended up back where you started but Tibword continues to stride forward confidently. At that moment you pass a nondescript door, your eyes seem to pass over it and you'd have forgotten it the moment you stepped past if Tibword hadn't put a hand out and said "Stop. Okay now don't look directly at the door, it's easier not to get misdirected if you just sort of back into it." He leads you backwards and reaches behind himself to grasp at the hand and open it. When you enter the room you turn around to see, well you aren't sure. The room contains plenty of books on long shelves you've gotten used to, except it doesn't fit in space the way you're used. Many books are shelved in direct contradiction to gravity, some shelves seem to pass through each other, the further away from yourself you look, the harder it is to focus on or make sense of. Far away above and possibly also below you, you can see a small figure moving through the shelves before they notice your presence and before you can even think to blink, they're right in front of you. A shortish figure, maybe a halfling, with a bright smile and dark clothes. "Well Dr Phirin, who've you brought to me this time?"
 > - [[The Trickster]] introduces themselves and asks about [[Dendrin]], his past, his morals, and what happened in [[The Badlands Heist]]. 
 > - Tries to assess if they found the note from [[The Editors]].
 > - Tries to assess if he'd can be recruited
@@ -58,8 +58,8 @@ ___
 > - Tells [[Tibword Phirin]] he wants to test him, to put him and his team on the [[Tome of Spirits]] case to see what he's made of. Promises him that their warlock pact will grow stronger if he approves of his choices.
 
 > [!recite|no-i nbrd] Return To [[The Library]]
->> [!recite|clean no-t]
->>	Clickity Clackity, as you step through the portal back to the library you hear Barry start to cry out from behind you. Clearly Panicked.
+>> [!boxed|no-t]
+>> Clickity Clackity, as you step through the portal back to the library you hear Barry start to cry out from behind you. Clearly Panicked.
 > - Describe his body disintegrating and give him a chance to reach out to his soul.
 > - Gives him [[Soul of Barry The Baselisk]] abilities.
 > - [[Professor Werblzwerth]] if told will be annoyed with himself for not considering that [[Soul of Barry The Baselisk|Barry]] is a living creature and so can't travel to [[The Library]] with his corporeal form.
@@ -69,8 +69,8 @@ ___
 > - After some time to rest up, [[The Party]] is called to return the [[Tome of Spirits]].
 > - [[Tibword Phirin]] gives them the mission.
 >
->> [!recite|clean no-t]
->>	"Some chapters ago a necromantic book by the name of the Tome of Spirits vanished from The Library, it was found to be in the hands of a coven know as the Holy Witches that operated in the area we're sending you. But the agents we sent there were unable to recover it and we lost track of the coven. We thought it lost forever, but there are now reports, some hundreds of years later mortal time, that some evil has overtaken Mirewood. You're to go there and retrieve the Tome. You are authorized to use your best judgement in attempting to undo whatever evil the tome has caused, and kill if necessary to stop further infection of the timeline."
+>> [!boxed|no-t]
+>> "Some chapters ago a necromantic book by the name of the Tome of Spirits vanished from The Library, it was found to be in the hands of a coven know as the Holy Witches that operated in the area we're sending you. But the agents we sent there were unable to recover it and we lost track of the coven. We thought it lost forever, but there are now reports, some hundreds of years later mortal time, that some evil has overtaken Mirewood. You're to go there and retrieve the Tome. You are authorized to use your best judgement in attempting to undo whatever evil the tome has caused, and kill if necessary to stop further infection of the timeline."
 > - [[Professor Werblzwerth]] says that since [[Dreisfor]] was unable to bring his signature weapon with him to [[The Library]], he's been busy tinkering away and has made a replacement, giving him [[Dreisfor's Adaptable Gun]].
 > - They use the book [[The Holy Witches of Mirewood]] by [[Thatticus Shorn]] to travel there.
 

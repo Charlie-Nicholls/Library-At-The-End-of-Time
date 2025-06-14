@@ -7,8 +7,8 @@ displayLink: "[[Books of Self]]"
 <span class="sub2">:LiScrollText: Lore</span>
 ___
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description

@@ -8,8 +8,8 @@ displayLink: "[[The Unobserved]]"
 
 ---
 
-> [!recite|clean no-t]
->	The realm of the could-have-beens and never-weres
+> [!boxed|no-t]
+> The realm of the could-have-beens and never-weres
 >^IntroText
 
 ### Description

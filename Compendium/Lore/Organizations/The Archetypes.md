@@ -21,8 +21,8 @@ ___
 >>LIST WITHOUT ID displayLink
 >>FROM "Session Notes" AND [[The Archetypes]]
 
-> [!recite|clean no-t]
->	Manifestations of story
+> [!boxed|no-t]
+> Manifestations of story
 >^IntroText
 
 ### Description

@@ -13,8 +13,8 @@ displayLink: "[[The Last Chance#The Last Chance]]"
 
 ---
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 	
 ### Description

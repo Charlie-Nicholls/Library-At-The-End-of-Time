@@ -2,11 +2,7 @@
 type: notes
 date: 2025-06-07
 displayLink: "[[Chapter 10]]"
-<<<<<<< HEAD
 alias: "We Are Spies Now?"
-=======
-alias: "TBD"
->>>>>>> origin/dm
 chapter: 10
 ---
 

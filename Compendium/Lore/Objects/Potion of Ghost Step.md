@@ -24,8 +24,8 @@ ___
 >LIST WITHOUT ID displayLink
 >FROM "Session Notes" AND [[Potion of Ghost Step]]
 
-> [!recite|clean no-t]
->	This light blue liquid glows softly as it swirls around its glass container.
+> [!boxed|no-t]
+> This light blue liquid glows softly as it swirls around its glass container.
 >^IntroText
 
 ### Description

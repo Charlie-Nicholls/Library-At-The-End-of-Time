@@ -33,8 +33,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A handsome half-elf with brown hair pushed back past his pointed ears and a neatly trimmed beard. He wears a long reddish-brown trench coat and stands with a casual demeanour and easy smile.
+> [!boxed|no-t]
+> A handsome half-elf with brown hair pushed back past his pointed ears and a neatly trimmed beard. He wears a long reddish-brown trench coat and stands with a casual demeanour and easy smile.
 >^IntroText
 
 ### Description

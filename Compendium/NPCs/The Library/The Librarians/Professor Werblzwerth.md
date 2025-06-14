@@ -54,8 +54,8 @@ action: {type: open, link: https://app.roll20.net/characters/sheet/10364625, new
 
 # Profile
 
-> [!recite|clean no-t]
->	A small gnomish man with grey skin and shock white hair that stands upwards, making up a not insignificant portion of his height. A wild beard comes down to his mid chest and he carries an ornate cane with a gem, presumably a spell focus, embedded in its tip. Despite his age he moves with a hectic energy, swinging his cane around haphazardly to punctuate whatever rambling point he is making.
+> [!boxed|no-t]
+> A small gnomish man with grey skin and shock white hair that stands upwards, making up a not insignificant portion of his height. A wild beard comes down to his mid chest and he carries an ornate cane with a gem, presumably a spell focus, embedded in its tip. Despite his age he moves with a hectic energy, swinging his cane around haphazardly to punctuate whatever rambling point he is making.
 >^IntroText
 
 ### Description

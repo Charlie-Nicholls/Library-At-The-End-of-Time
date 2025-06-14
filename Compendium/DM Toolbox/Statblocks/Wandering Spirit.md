@@ -8,8 +8,8 @@ displayLink: "[[Wandering Spirit]]"
 <span class="sub2">:LiLayoutList: Undead Humanoid </span>
 ___
 
-> [!recite|clean no-t]
->	
+> [!boxed|no-t]
+> 
 >^IntroText
 
 ### Description

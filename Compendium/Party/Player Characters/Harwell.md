@@ -57,8 +57,8 @@ action: {type: open, link: https://app.roll20.net/campaigns/details/18822428/the
 
 # Profile
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description

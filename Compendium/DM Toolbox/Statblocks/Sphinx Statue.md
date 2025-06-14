@@ -8,8 +8,8 @@ displayLink: "[[Sphinx Statue]]"
 <span class="sub2">:LiLayoutList: Construct </span>
 ___
 
-> [!recite|clean no-t]
->	A large statue of a cat-like creature with feathered wings stands on a plinth; about the size of a lion cub wide eyes and arcane patterns in its fur. Five clear gems gleam in its forehead.
+> [!boxed|no-t]
+> A large statue of a cat-like creature with feathered wings stands on a plinth; about the size of a lion cub wide eyes and arcane patterns in its fur. Five clear gems gleam in its forehead.
 >^IntroText
 
 ### Description

@@ -37,8 +37,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A shortish figure, maybe a halfling, with a bright smile and dark clothes.
+> [!boxed|no-t]
+> A shortish figure, maybe a halfling, with a bright smile and dark clothes.
 >^IntroText
 
 ### Description

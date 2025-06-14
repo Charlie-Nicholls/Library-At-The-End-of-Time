@@ -32,8 +32,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A metal figure wearing a hat, leathers and spurs on their boots sits slumped dejectedly in a chair. on the table in front of them are scattered notes and various bottles and beakers, some bubbling, some suspiciously still. As you come in they look up, eyes glowing a bright blue. "Oh no, who are you, what do you want, can't you just leave me alone?"
+> [!boxed|no-t]
+> A metal figure wearing a hat, leathers and spurs on their boots sits slumped dejectedly in a chair. on the table in front of them are scattered notes and various bottles and beakers, some bubbling, some suspiciously still. As you come in they look up, eyes glowing a bright blue. "Oh no, who are you, what do you want, can't you just leave me alone?"
 >^IntroText
 
 ### Description

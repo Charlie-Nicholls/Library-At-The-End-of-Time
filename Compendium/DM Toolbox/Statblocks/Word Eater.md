@@ -9,14 +9,14 @@ displayLink: "[[Word Eater]]"
 
 ___
 
-> [!recite|clean no-t]
->	
+> [!boxed|no-t]
+> 
 >^IntroText
 
 ### Description
 Constructs designed by [[The Sage]] to guard [[The Narrator's Prison]] and consume all language within.
 
-> [!recite|clean no-t]
+> [!boxed|no-t]
 > ![[imgWordEater.webp]]
 
 ### Statblock

@@ -16,8 +16,8 @@ This book was used as backup transport to [[The Badlands]] in [[Chapter 01]] aft
 
 ### Text
 
-> [!recite|clean no-t]
->	Wild Willie grew up in Eastwood, the largest city in The Badlands. As a child he showed none of the signs of the ruthless criminal he would one day become. But it was when he was 14, and his father ran for office that he was inadvertently exposed that most people point to as a turning point in his life.
+> [!boxed|no-t]
+> Wild Willie grew up in Eastwood, the largest city in The Badlands. As a child he showed none of the signs of the ruthless criminal he would one day become. But it was when he was 14, and his father ran for office that he was inadvertently exposed that most people point to as a turning point in his life.
 >^BookText
 
 ___

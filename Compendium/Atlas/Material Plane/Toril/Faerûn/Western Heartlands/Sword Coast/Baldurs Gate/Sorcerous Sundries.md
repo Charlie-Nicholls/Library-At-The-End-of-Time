@@ -11,8 +11,8 @@ displayLink: "[[Sorcerous Sundries#Sorcerous Sundries]]"
 <span class="sub2">:FasCartShopping: Shop</span>
 ___
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description

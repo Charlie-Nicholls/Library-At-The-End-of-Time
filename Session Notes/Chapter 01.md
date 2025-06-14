@@ -44,46 +44,57 @@ ___
 > 	- Explain how it works for advantage/disadvantage
 > - Reminder to me: Don't use crits at level 1/2
 
->#### Deaths
+> [!recite|no-i nbrd] Deaths
 > **Cameron**
->> 
->> 	It's a little known fact that the Thri-keen word for 'temple' and 'library' are the same. Mainly because there are vanishingly few people who've ever attempted to learn Thri-keen, partly because they're telepathic anyway but mostly because they don't possess the mandible's necessary to produce various whistles, clicks and snaps it involves. As a largely non-religious species, their closest equivalent to holy scripture are the many stories passed down through the generations. It is not required for them to believe that these stories are in any sense 'true', but that does not mean that the stories themselves haven't had a profound impact on their people and culture through the centuries. As such, the preservation of stories and the collection of new stories, is considered to be of equivalently divine importance to the Thri-keen. And once their technology became advanced enough, they would end up travelling the stars to collect the stories of other worlds and bring them back to their libraries for preservation. It is in one such library, with the death of an old and dedicated thri-keen that this story begins
+>> [!boxed|no-t]
+>> It's a little known fact that the Thri-keen word for 'temple' and 'library' are the same. Mainly because there are vanishingly few people who've ever attempted to learn Thri-keen, partly because they're telepathic anyway but mostly because they don't possess the mandible's necessary to produce various whistles, clicks and snaps it involves. As a largely non-religious species, their closest equivalent to holy scripture are the many stories passed down through the generations. It is not required for them to believe that these stories are in any sense 'true', but that does not mean that the stories themselves haven't had a profound impact on their people and culture through the centuries. As such, the preservation of stories and the collection of new stories, is considered to be of equivalently divine importance to the Thri-keen. And once their technology became advanced enough, they would end up travelling the stars to collect the stories of other worlds and bring them back to their libraries for preservation. It is in one such library, with the death of an old and dedicated thri-keen that this story begins
 > - [[Professor Werblzwerth]] appears to give him his offer.
 > - Can't move with his body, only his soul. When you appear in the abstract you will get a new body that reflects how you imagine yourself.
 >
 >**James**
->>	Many chapters later.
+>> [!boxed|no-t]
+>> Many chapters later.
 > - [[Tibword Phirin]] appears to give him his offer
 >
 > **George**
->>	temp
+>> [!boxed|no-t]
+>>  temp
 > - [[Tibword Phirin]] appears to give him his offer
 >
 > **Owen**
->>	temp
+>> [!boxed|no-t]
+>>  temp
 > - [[Tibword Phirin]] appears to give him his offer and offers him a warlock pact with [[The Trickster]]
 
-> ##### [[Clickity Clackity]]'s fall to adventure
+> [!recite|no-i nbrd] [[Clickity Clackity]]'s fall to adventure
 > - Describe day in the life of [[Clickity Clackity]]
 > - Doesn't sleep, spends night reading
 > - Runs into his friend [[Professor Werblzwerth]] as he heads off to his duty
->>	"How's that book I recommend, "Ghosts of the Damned"? Any idea who the murder is yet? That Featherwick Crowely is crafty one, caught me totally off guard I'll tell you."
->>	"Big day for me you know. I'm seeing off this chapter's new prospective agents on their first retrieval as usual, but I've put in a request to do some field work myself and I'll be heading off for that right after. Be nice to get out in the material plane again. You've been here for, how many chapters now? Lots and lots. Have you considered joining the agents?"
->>	"Well consider it, if you come along to the briefing later I'll get you on a retrieval, these first ones are only simple anyway."
+>
+>> [!boxed|no-t]
+>> "How's that book I recommend, "Ghosts of the Damned"? Any idea who the murder is yet? That Featherwick Crowely is crafty one, caught me totally off guard I'll tell you."
+>> "Big day for me you know. I'm seeing off this chapter's new prospective agents on their first retrieval as usual, but I've put in a request to do some field work myself and I'll be heading off for that right after. Be nice to get out in the material plane again. You've been here for, how many chapters now? Lots and lots. Have you considered joining the agents?"
+>
+>> [!boxed|no-t]
+>> "Well consider it, if you come along to the briefing later I'll get you on a retrieval, these first ones are only simple anyway."
 > - Spends day cataloguing new books about Tritons (mainly overseas water cultures)
 > - On his way back the library takes him by a more deserty section (unusual as it's far from water, but how the library works). See's a cloaked figure ([[Chan-tho]]) sneaking out from one of the buildings clutching a book
 > - Follows them inside, down a few corridors and see's them duck into a room
->>	You hear a muffled voice say "Ah fantastic you got it let's -" before it pauses. "Did you see who?", then a frantic series of clicks and clacks you recognise as your name. "We'll I'll just have to check and I'll deal with him if needed". And footsteps headed towards your door. Looking around you realise you're in a long corridor, nowhere to hide except one of the rooms, and there's only one other close enough to get to before whoever it is finds you.
+>
+>> [!boxed|no-t]
+>> You hear a muffled voice say "Ah fantastic you got it let's -" before it pauses. "Did you see who?", then a frantic series of clicks and clacks you recognise as your name. "We'll I'll just have to check and I'll deal with him if needed". And footsteps headed towards your door. Looking around you realise you're in a long corridor, nowhere to hide except one of the rooms, and there's only one other close enough to get to before whoever it is finds you.
 
-> ##### Briefing Room
+> [!recite|no-i nbrd] Briefing Room
 > [[Professor Werblzwerth]] reads [[The Library at the End of Time]]
->>	"That was an extract from [[The Library at the End of Time]] by one of our Librarians [[Tibword Phirin]] and I always find it a relevant reminder before we send you off on your first mission as to the importance of what we do here. Now let's sort out your groups for your first mission, you'll have a bit of time to get acquainted before you're called through to the [[The Book Wormhole]].
-> [[Clickity Clackity]] stumbles in while teams are assigned.
-> While [[Professor Werblzwerth]] explains the mission [[Chan-tho]] comes in and explains that she couldn't find [[Abblesmith's Guide to the Badlands Desert]] and the next best bet was [[Wild-Life - The Mad Life of Wild Willie]]
-> This adds a slight trek to reach [[Flintfall]] but shouldn't be a problem
-> Read start of [[Wild-Life - The Mad Life of Wild Willie]] to open [[The Book Wormhole]]
+>> [!boxed|no-t]
+>> "That was an extract from [[The Library at the End of Time]] by one of our Librarians [[Tibword Phirin]] and I always find it a relevant reminder before we send you off on your first mission as to the importance of what we do here. Now let's sort out your groups for your first mission, you'll have a bit of time to get acquainted before you're called through to the [[The Book Wormhole]].
+>
+> - [[Clickity Clackity]] stumbles in while teams are assigned.
+> - While [[Professor Werblzwerth]] explains the mission [[Chan-tho]] comes in and explains that she couldn't find [[Abblesmith's Guide to the Badlands Desert]] and the next best bet was [[Wild-Life - The Mad Life of Wild Willie]]
+> - This adds a slight trek to reach [[Flintfall]] but shouldn't be a problem
+> - Read start of [[Wild-Life - The Mad Life of Wild Willie]] to open [[The Book Wormhole]]
 
-> ##### Mission
+> [!recite|no-i nbrd] Mission
 > Proceed with [[The Badlands Heist]]
 
 ### Notes
@@ -91,7 +102,6 @@ ___
 - [[Dendrin]] dies on the street, impulsively attempting to steal a broach from a landlord who was evicting a woman and her child. Head caved in by landlord.
 - [[Nivea]] leads her party to a cave the book she researched with assured her was safe. Ignoring the scattered goblin limbs pointed out to her by her party, she is jumped by a giant bear and swiped across the face.
 - [[Dreisfor]] asked to investigate a mutant rat by [[NPC]], is betrayed and killed by a much more dangerous monster
-
 - [[Clickity Clackity]] learns that [[Tibword Phirin]] was involved in stealing [[Abblesmith's Guide to the Badlands Desert]]
  
 ### Summary

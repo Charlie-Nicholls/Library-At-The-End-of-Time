@@ -32,8 +32,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A short man with long grey hair and a longer, greyer beard. He wears simple robes and seems frail, holding himself up with an ornate wooden staff, but moves with a controlled dexterity. His expression is stern but his eyes betray an amusement.
+> [!boxed|no-t]
+> A short man with long grey hair and a longer, greyer beard. He wears simple robes and seems frail, holding himself up with an ornate wooden staff, but moves with a controlled dexterity. His expression is stern but his eyes betray an amusement.
 >^IntroText
 
 ### Description

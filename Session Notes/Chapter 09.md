@@ -2,11 +2,7 @@
 type: notes
 date: 2025-06-02
 displayLink: "[[Chapter 09]]"
-<<<<<<< HEAD
-alias: "We Take A Disliking To Sinbad"
-=======
 alias: "We Take A Dislike To Sinbad"
->>>>>>> origin/dm
 chapter: 09
 ---
 

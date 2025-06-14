@@ -11,8 +11,8 @@ displayLink: "[[Elfsong Tavern#Elfsong Tavern]]"
 <span class="sub2">:RiBeerLine: Tavern</span>
 ___
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description

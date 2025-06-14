@@ -8,8 +8,8 @@ displayLink: "[[Museum Guard]]"
 <span class="sub2">:LiLayoutList: Humanoid </span>
 ___
 
-> [!recite|clean no-t]
->	
+> [!boxed|no-t]
+> 
 >^IntroText
 
 ### Description

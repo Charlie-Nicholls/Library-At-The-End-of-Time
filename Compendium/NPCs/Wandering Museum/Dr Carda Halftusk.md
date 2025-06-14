@@ -32,8 +32,8 @@ ___
 
 # Profile
 
-> [!recite|clean no-t]
->	A middle-aged woman with a dash of orc blood – she is heavily built, and small tusks protrude from her lower jaw. She wears an elegant dress with complicated puffed sleeves, and a pair of spectacles perch on her nose.
+> [!boxed|no-t]
+> A middle-aged woman with a dash of orc blood – she is heavily built, and small tusks protrude from her lower jaw. She wears an elegant dress with complicated puffed sleeves, and a pair of spectacles perch on her nose.
 >^IntroText
 
 ### Description

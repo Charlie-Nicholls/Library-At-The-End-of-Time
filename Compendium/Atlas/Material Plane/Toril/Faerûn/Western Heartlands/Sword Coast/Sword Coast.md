@@ -10,8 +10,8 @@ displayLink: "[[Sword Coast#The Sword Coast]]"
 <span class="sub2">:FasMap: Province</span>
 ___
 
-> [!recite|clean no-t]
->	Introduction for players
+> [!boxed|no-t]
+> Introduction for players
 >^IntroText
 
 ### Description

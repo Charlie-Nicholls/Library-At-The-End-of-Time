@@ -1,8 +1,12 @@
 ---
 type: notes
-date: TBD
+date: 2025-06-02
 displayLink: "[[Chapter 09]]"
+<<<<<<< HEAD
 alias: "We Take A Disliking To Sinbad"
+=======
+alias: "We Take A Dislike To Sinbad"
+>>>>>>> origin/dm
 chapter: 09
 ---
 
@@ -20,12 +24,18 @@ ___
 > 
 >> [!info|flex]- NPCS:
 >> - [[The Narrator]]
+>> - [[Professor Werblzwerth]]
+>> - [[Alexandria Cerma]]
+>> - [[Aldra Lamnem]]
+>> - [[The Hero]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[Locations]]
+>> - [[The Badlands]]
+>> - [[Eastwood]]
+>> - [[The 1001 Nights]]
 >
 >> [!important|flex]- QUESTS:
->> - [[Quests]]
+>> - [[A 5 Minute Adventure]]
 
 ### Plan
 > [!recite|no-i nbrd] Formalities
@@ -74,4 +84,6 @@ ___
 
 [[Professor Werblzwerth]] asked you to accompany him on a "simple overdue book retrieval, nothing complicated just in and out" which you readily agreed to despite not believing that would be what would happen for a second. On the way you saw [[The Hero]], wearing fancy armour made of words, with his own symbol on the breast, speaking to [[Aldra Lamnem|Aldra]] about a journey into the depths of [[The Library]] as the recent timeline changes had been causing turmoil. Travelling back to [[The Badlands]], you met [[Alexandria Cerma]] who readily returned the book and offered to show you her collection she was hoping to use to help renovate [[The Badlands]]. But when you arrived you found it was aflame, and would have destroyed the whole collection if not for your being there to quickly douse the flames and rescue the vast majority of the books.
 
-Heading back through the portal you found yourself in a whirlwind 
+Heading back through the portal you found yourself in a whirlwind of chaos, the halls of [[The Library]] rushing past you. You spotted somewhere stable and managed to reach out and pull yourself to stable ground. Finding yourself in what appeared to be a normal corridor of [[The Library]] at first glace, but quickly gave up the illusion when you realised every book it housed was blank, and the ceiling revealed a kaleidoscopic nonsense of space folding over itself, layers of rooms similar to yours above your head. A simple staff snapping test hinted maybe it was a bad idea to travel through the ceiling, so you instead followed your nose down one of the hallways until you reached a slab of raw meat with diamonds embedded. Behind which was a book, different to the rest, with a diamond, a nest and a number on the front.
+
+Opening the book transported [[Nivea]] and [[Clickity Clackity|Clickity]] to a valley full of diamonds, giant snakes and giant birds. [[Dreisfor]] and [[Dendrin]] were more hesitant to enter, 

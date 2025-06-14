@@ -1005,7 +1005,7 @@
         "size": "Medium",
         "alignment": "",
         "hp": 18,
-        "hit_dice": "NaNd8 + 0",
+        "hit_dice": null,
         "ac": 16,
         "speed": "40 ft.",
         "stats": [
@@ -1039,7 +1039,7 @@
           },
           {
             "name": "Fourth Wall",
-            "desc": "While inside The Library, The Word Eater can move short distances in the 4th dimension. It does not provoke attacks of opportunity when moving in this way. If the Word Eater ends its turn in 4D space it takes 7 (2d6) force damage."
+            "desc": "While inside The Library, The Word Eater can move short distances in the 4th dimension. Attacks of opportunity against it are made with disadvantage when moving in this way. If the Word Eater ends its turn in 4D space it takes 7 (2d6) force damage."
           },
           {
             "name": "Language Sense",
@@ -1065,7 +1065,8 @@
           }
         ],
         "reactions": [],
-        "legendary_actions": []
+        "legendary_actions": [],
+        "layout": "Basic 5e Layout"
       }
     ],
     [
@@ -1106,7 +1107,7 @@
         "traits": [
           {
             "name": "Runic Power",
-            "desc": "King Shahryar is powered by three runes and takes 44 (8d8) damage when one is destroyed."
+            "desc": "King Shahryar is powered by three runes and takes 32 (8d8) damage when one is destroyed."
           }
         ],
         "actions": [
@@ -1128,8 +1129,13 @@
           {
             "name": "Swap Dimension",
             "desc": "King Shahryar shifts plane, arriving at the nearest open spot in the opposite plane. This does not provoke opportunity attacks."
+          },
+          {
+            "name": "Power Rune",
+            "desc": "King Shahryar uses his Power Rune ability. With the activation coming at the end of the creature who's initiative this happens after."
           }
-        ]
+        ],
+        "layout": "Basic 5e Layout"
       }
     ]
   ],

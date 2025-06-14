@@ -2,7 +2,11 @@
 type: notes
 date: 2025-06-07
 displayLink: "[[Chapter 10]]"
+<<<<<<< HEAD
 alias: "We Are Spies Now?"
+=======
+alias: "TBD"
+>>>>>>> origin/dm
 chapter: 10
 ---
 
@@ -19,10 +23,17 @@ ___
 >> - [[Dreisfor]]
 > 
 >> [!info|flex]- NPCS:
+<<<<<<< HEAD
 >> - [[Professor Werblzwerth]]
 >
 >> [!example|flex]- LOCATIONS:
 >> - [[The 1001 Nights]]
+=======
+>> - [[Characters]]
+>
+>> [!example|flex]- LOCATIONS:
+>> - [[Locations]]
+>>>>>>> origin/dm
 >
 >> [!important|flex]- QUESTS:
 >> - [[Quests]]

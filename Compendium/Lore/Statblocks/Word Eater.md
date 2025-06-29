@@ -16,8 +16,8 @@ ___
 ### Description
 Constructs designed by [[The Sage]] to guard [[The Narrator's Prison]] and consume all language within.
 
-> [!boxed|no-t]
-> ![[imgWordEater.webp]]
+> [!recite|clean no-t]
+> ![[imgWordEater.webp|350]]
 
 ### Statblock
 >```statblock

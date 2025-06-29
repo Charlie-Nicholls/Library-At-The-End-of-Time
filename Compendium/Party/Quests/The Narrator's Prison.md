@@ -65,7 +65,11 @@ Prison was created long ago by [[The Trickster]], [[The Sage]], [[The Hero]] and
 #### Fight with King Shahryar
 In the library side of the final room is a vast collection of books connected by various arcane magics and runes. There are 3 runes that power [[King Shahryar]], players may use an action to destroy them if found. He can activate them on legendary actions, see his stat block. [[Word Eater]]s protect the runes, dragging people through the 4th wall to keep them away from the runes.
 
-#### Exit
+#### Escape
 > [!boxed|no-t]
 > 
 >^IntroText
+
+
+#### Exit
+When the players arrive at the exit, they find [[The Narrator|Scheherazade]] talking to [[Ali-Baba]]

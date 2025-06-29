@@ -1,14 +1,16 @@
 ---
-type: locale
+type: realm
 locations:
- - "[[The Library]]"
- - "[[The Realm of Fiction]]"
-displayLink: "[[The 1001 Nights]]"
+ - "[[The Abstract]]"
+displayLink: "[[The Realm of Fiction]]"
 ---
 
 ![[banner.jpg|banner]]
-###### The 1001 Nights
-<span class="sub2">:FasCircleQuestion: Prison</span>
+
+---
+
+###### The Realm of Fiction
+<span class="sub2">:RiGlobalLine: Realm (world)</span>
 
 ---
 
@@ -17,7 +19,7 @@ displayLink: "[[The 1001 Nights]]"
 >^IntroText
 
 ### Description
-Description of location
+Description of realm
 
 ---
 
@@ -26,11 +28,11 @@ Description of location
 >>```dataview
 LIST WITHOUT ID displayLink
 FROM "Compendium/NPCs" AND [[#]] OR "Compendium/Party" AND [[#]] 
-> 
+>
 >> [!example]- LOCATIONS
 >>```dataview
 LIST WITHOUT ID displayLink
-FROM "Compendium/Atlas/The Abstract/The Library/The 1001 Nights" AND [[#]]
+FROM "Compendium/Atlas/The Abstract/The Realm of Fiction" AND [[#]]
 WHERE file.name != this.file.name
 SORT file.name ASC
 >

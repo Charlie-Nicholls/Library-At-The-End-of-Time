@@ -31,11 +31,10 @@ ___
 >> - [[Baselisk Egg Retrieval]]
 
 ### Plan
+**Owen's Session**
 
 > [!recite|clean]- Recap
 > ![[Chapter 01#Summary]]
-
-**Owen's Session**
 
 ### Notes
 - [[Baselisk Egg]] found at a dig site in [[Jungle of Stone]]

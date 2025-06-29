@@ -1,9 +1,9 @@
 ---
 type: notes
 date: 2025-06-07
-displayLink: "[[Chapter 10]]"
-alias: "We Free Scheherazade"
-chapter: 10
+displayLink: "[[Chapter 11]]"
+alias: We Are Spies Now?
+chapter: 11
 ---
 
 ![[session.png|banner]]
@@ -19,26 +19,22 @@ ___
 >> - [[Dreisfor]]
 > 
 >> [!info|flex]- NPCS:
->> - [[The Narrator]]
 >> - [[Professor Werblzwerth]]
->> - [[King Shahryar]]
 >
 >> [!example|flex]- LOCATIONS:
->> - [[The 1001 Nights]]
+>> - [[The Realm of Fiction]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[The Narrator's Prison]]
 
 ### Plan
-> [!recite|no-i nbrd] Formalities
-> None
+**James' Session**
 
 > [!recite|clean]- Recap
-> ![[Chapter 09#Summary]]
+> ![[Chapter 10#Summary]]
 
 ### Notes
-- Runes destroyed, King killed
-- [[The Dralimar Agent]] given to [[The Narrator|Scheherazade]]
+- Nivea killed in the story
 
 ### Summary
 - Summary of the important points from the session here.

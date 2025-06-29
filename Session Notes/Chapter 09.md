@@ -31,7 +31,7 @@ ___
 >> - [[The 1001 Nights]]
 >
 >> [!important|flex]- QUESTS:
->> - [[A 5 Minute Adventure]]
+>> - [[The Narrator's Prison]]
 
 ### Plan
 > [!recite|no-i nbrd] Formalities

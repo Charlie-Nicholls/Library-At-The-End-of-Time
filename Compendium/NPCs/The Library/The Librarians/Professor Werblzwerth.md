@@ -62,10 +62,10 @@ action: {type: open, link: https://app.roll20.net/characters/sheet/10364625, new
 Description
 
 ### Motivations
-> - The discovery, preservation and communication of new information.
+- The discovery, preservation and communication of new information.
 
 ### Magic Items / Abilities
-> - Artificer's Cane
+- Artificer's Cane
 
 ### Allies
 - [[The Librarians]]

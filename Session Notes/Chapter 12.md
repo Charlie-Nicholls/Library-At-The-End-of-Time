@@ -31,7 +31,7 @@ ___
 
 ### Plan
 > [!recite|no-i nbrd] Formalities
-> - [ ] Discussion about the nature 
+> - [x] Discussion about the nature of the campaign
 
 > [!recite|clean]- Recap
 > ![[Chapter 11#Summary]]
@@ -41,9 +41,19 @@ ___
 > - Couldn't bear to see them destroyed so decided to go to go back and fix it. Getting the party involved knowing [[Clickity Clackity|Clickity]]'s water control would be useful, and it would provide a level of plausible deniability as they didn't know ahead of time.
 > - Speculates this change caused the turmoil in [[The Library]] that either moved [[The Book Wormhole]] room, disrupted the book they used for the portal or something to that effect and caused them to be thrown through the realm chaotically.
 > - Further theorised this place wasn't effected by the turmoil because it isn't exactly [[The Library]], it's something else separate but related.
+> - Tells them what he saw of the structure of the prison
+
+![[tempPDWWstatblock.jpg|600]]
 
 ### Notes
-- Live notes from the session here.
+- 7 damage
+- decent arcana
+- 7 roll, 17, 20, 10, 19, 18, 1, 4, 14, 2 rounds, 12, 14, 18, 10, boat
+- things they need to learn in the next session
+	- what the [[Village of Forgotten Stories]]
+	- where the portal went
+	- who the narrator is
+	- who built the prison
 
 ### Summary
 - Summary of the important points from the session here.

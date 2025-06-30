@@ -66,10 +66,20 @@ Prison was created long ago by [[The Trickster]], [[The Sage]], [[The Hero]] and
 In the library side of the final room is a vast collection of books connected by various arcane magics and runes. There are 3 runes that power [[King Shahryar]], players may use an action to destroy them if found. He can activate them on legendary actions, see his stat block. [[Word Eater]]s protect the runes, dragging people through the 4th wall to keep them away from the runes.
 
 #### Escape
-> [!boxed|no-t]
-> 
->^IntroText
+The prison is constructed like a higher dimen
 
+> [!recite|no-i nbrd] Obstacles
+> - [[Man-Eating Giant]]
+> - Sandstorm
+> - Falling Corridors
+> - Navigation
+> - Ali Baba's Body
+> 	- If they take time to examine it it costs them time but they can find a large number of stab wounds, a note on which he has scribbled down "open sesame" and a large amount of gold coins.
+> - 
+
+> [!recite|no-i nbrd] Possible Magic Items
+> - Eyes of the Eagle (advantage on perception checks)
+> - 
 
 #### Exit
-When the players arrive at the exit, they find [[The Narrator|Scheherazade]] talking to [[Ali-Baba]]
+When they reach the surface of the prison they will find themselves in by a stream that leads to the [[Village of Forgotten Stories]]. They can meet a couple of villagers fishing for useful words. When they reach the village they will find a tear in the ground through which [[The Narrator|Scheherazade]] arrived. And that the villagers hide away in their houses, with several lying dead in the street, killed by the 40 thieves. [[The Narrator|Scheherazade]] is by the Sink, waiting for the cycle to complete so she can jump into the Source and reach [[The Library]]. If her defences are depleted before time runs out, she will instead jump into the Sink and go to the [[The Realm of Fiction]]. The players have until the sky falls to follow her.

@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBookSkull",
       "FasBookOpen",
       "FasDragon",
       "LiNotepadText",
@@ -14,8 +15,7 @@
       "FasUserPen",
       "LiLayoutList",
       "FasAlignJustify",
-      "RiQuestionFill",
-      "FasBook"
+      "RiQuestionFill"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -168,7 +168,6 @@
   "Compendium/Lore/Other/Books of Self.md": "FasBook",
   "Compendium/NPCs/The Library/The Archetypes/The Alternate Trickster.md": "FasUserPen",
   "Compendium/NPCs/The Library/The Archetypes/The Noble.md": "FasUserPen",
-  "Compendium/Atlas/The Abstract/The Library/The 1001 Nights": "FasBookOpenReader",
   "Compendium/Party/Quests/The Narrator's Prison.md": "LiBookLock",
   "Session Notes/Chapter 07.md": "LiNotepadText",
   "Session Notes/Chapter 08.md": "LiNotepadText",
@@ -187,5 +186,7 @@
   "Compendium/Lore/Statblocks/Sphinx Statue.md": "LiLayoutList",
   "Compendium/Lore/Statblocks/Wandering Spirit.md": "LiLayoutList",
   "Compendium/Lore/Statblocks/Word Eater.md": "LiLayoutList",
-  "Compendium/Lore/Statblocks/Man-Eating Giant.md": "LiLayoutList"
+  "Compendium/Lore/Statblocks/Man-Eating Giant.md": "LiLayoutList",
+  "Compendium/Atlas/The Abstract/The 1001 Nights": "FasBookOpenReader",
+  "Compendium/Atlas/The Abstract/The 1001 Nights/Village of Forgotten Stories": "FasBookSkull"
 }

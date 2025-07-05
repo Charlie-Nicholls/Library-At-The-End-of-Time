@@ -2,7 +2,7 @@
 type: notes
 date: 2025-06-30
 displayLink: "[[Chapter 12]]"
-alias: "TBD"
+alias: "We Make A Boat Out Of Beetles"
 chapter: 12
 ---
 

@@ -6,16 +6,16 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasGem",
+      "FasGhost",
+      "FasChild",
+      "RiZzzFill",
+      "FasBed",
+      "FasHotel",
       "FasBookSkull",
       "FasBookOpen",
       "FasDragon",
-      "LiNotepadText",
-      "LiBookLock",
-      "FasBookOpenReader",
-      "FasUserPen",
-      "LiLayoutList",
-      "FasAlignJustify",
-      "RiQuestionFill"
+      "LiNotepadText"
     ],
     "recentlyUsedIconsSize": 10,
     "rules": [],
@@ -188,5 +188,14 @@
   "Compendium/Lore/Statblocks/Word Eater.md": "LiLayoutList",
   "Compendium/Lore/Statblocks/Man-Eating Giant.md": "LiLayoutList",
   "Compendium/Atlas/The Abstract/The 1001 Nights": "FasBookOpenReader",
-  "Compendium/Atlas/The Abstract/The 1001 Nights/Village of Forgotten Stories": "FasBookSkull"
+  "Compendium/Atlas/The Abstract/The 1001 Nights/Village of Forgotten Stories": "FasBookSkull",
+  "Session Notes/Chapter 13.md": "LiNotepadText",
+  "Compendium/Party/Quests/Amid Summer Night's Dream.md": "FasBed",
+  "Compendium/NPCs/Hotel Midsummer": "FasHotel",
+  "Compendium/Atlas/Feywild/Hotel Midsummer.md": "FasHotel",
+  "Compendium/NPCs/Hotel Midsummer/Nightmare Hag.md": "RiZzzFill",
+  "Compendium/NPCs/Hotel Midsummer/Summer Night.md": "FasChild",
+  "Compendium/NPCs/Hotel Midsummer/The Echoes.md": "FasGhost",
+  "Compendium/NPCs/Hotel Midsummer/The Sandman.md": "RiZzzFill",
+  "Compendium/Lore/Objects/Phantasmal Gem.md": "FasGem"
 }

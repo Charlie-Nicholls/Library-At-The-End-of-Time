@@ -1,9 +1,9 @@
 ---
 type: notes
-date: 2025-08-11
-displayLink: "[[Chapter 13]]"
-alias: "We Have A Nightmare"
-chapter: 13
+date: 2025-09-01
+displayLink: "[[Chapter 14]]"
+alias: "TBD"
+chapter: 14
 ---
 
 ![[session.png|banner]]
@@ -13,6 +13,7 @@ ___
 
 > [!column|flex 3]
 >>[!info|flex]- PC's:
+>> - [[Dendrin]]
 >> - [[Nivea]]
 >> - [[Clickity Clackity]]
 >> - [[Dreisfor]]
@@ -28,18 +29,17 @@ ___
 >
 >> [!important|flex]- QUESTS:
 >> - [[Amid Summer Night's Dream]]
-
 ### Plan
 > [!recite|no-i nbrd] Formalities
 > - [ ] 
 
 > [!recite|clean]- Recap
-> ![[Chapter 12#Summary]]
+> ![[Chapter 13#Summary]]
 
 ### Notes
 - Live notes from the session here.
 
 ### Summary
-
+- Summary of the important points from the session here.
 
 

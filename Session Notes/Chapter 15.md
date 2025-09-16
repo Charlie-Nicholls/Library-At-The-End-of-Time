@@ -1,9 +1,9 @@
 ---
 type: notes
-date: 2025-09-01
-displayLink: "[[Chapter 14]]"
-alias: "The Rissotto Room"
-chapter: 14
+date: 2025-09-15
+displayLink: "[[Chapter 15]]"
+alias: "TBD"
+chapter: 15
 ---
 
 ![[session.png|banner]]
@@ -21,23 +21,24 @@ ___
 >> [!info|flex]- NPCS:
 >> - [[The Sandman]]
 >> - [[Summer Night]]
->> - [[Nightmare Hag]] (mentioned)
+>> - [[Nightmare Hag]]
 >
 >> [!example|flex]- LOCATIONS:
 >> - [[Hotel Midsummer]]
->> - [[Feywild]]
 >
 >> [!important|flex]- QUESTS:
 >> - [[Amid Summer Night's Dream]]
+
 ### Plan
 > [!recite|no-i nbrd] Formalities
-> - [ ] 
+> - [x] Daggerheart
 
 > [!recite|clean]- Recap
-> ![[Chapter 13#Summary]]
+> ![[Chapter 14#Summary]]
 
 ### Notes
-- Live notes from the session here.
+- Cameron finds magical trinket
+- Use for dream/trapping gem neckless
 
 ### Summary
 - Summary of the important points from the session here.

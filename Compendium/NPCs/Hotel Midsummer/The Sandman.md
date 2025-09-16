@@ -44,19 +44,15 @@ If [[The Sandman]] touches any of the players, he will steal one of their dreams
 ### Music
 When [[The Sandman]] first appears play the following  [music](https://www.youtube.com/watch?v=tuEllCbjbVc). Slowing increasing the volume until the players notice.
 
-```audio-player
-[[mrsandmancreepy.mp3]]
-```
-
 ### Statblock
 
 ```statblock
 name: The Sandman
 speed: 30
 ac: 16
-stats: [11,14,-,14,20,18]
+stats: [11,14,N/A,14,20,18]
 languages: Understands Common and Elvish but can't speak
-skillsaves: [charisma: 7, dexterity: 5]
+saves: [charisma: 7, dexterity: 5]
 skillsaves: [arcana: 7, insight: 8, perception: 8, stealth: 8]
 cr: 5
 traits:
@@ -68,3 +64,6 @@ actions:
   - name: Weave Dreams
     desc: The Sandman can warp the reality of Hotel Midsummer to add or remove environmental obstacles.
 ```
+
+
+

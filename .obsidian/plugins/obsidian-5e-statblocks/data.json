@@ -1238,6 +1238,130 @@
         ],
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Nightmare Hag",
+      {
+        "name": "Nightmare Hag",
+        "type": "Fey",
+        "size": "Medium",
+        "alignment": "Neutral Evil",
+        "hp": 82,
+        "hit_dice": "11d8 + 33",
+        "ac": 17,
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          12,
+          16,
+          13,
+          14,
+          14
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 3
+          },
+          {
+            "Deception": 4
+          },
+          {
+            "Perception": 4
+          },
+          {
+            "Stealth": 3
+          }
+        ],
+        "senses": "Darkvision 120 ft.",
+        "languages": "Common, Elvish, Sylvan",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Incorporeal",
+            "desc": "The Nightmare Hag is resistant to all damage dealt by creatures outside of dreams."
+          },
+          {
+            "name": "Innate Spellcasting",
+            "desc": "The nightmare hag's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\n\nAt will: dancing lights, disguise self, invisibility, minor illusion, ray of sickness (level 3 version)"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The Nightmare Hag makes two Claw attacks."
+          },
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Weave Nightmare",
+            "desc": "Wisdom Saving Throw: DC 12, one creature within 60 ft. Failure: The target sees a creature from their nightmares in front of them and becomes frightened. The target can repeat this save at the end of each of its turns. If the target is Summer Night, the creature can be brought to life if it is CR 1 or lower with half hit points. A maximum of two such creatures can exist at once."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "The Sandman",
+      {
+        "name": "The Sandman",
+        "speed": 30,
+        "ac": 16,
+        "stats": [
+          11,
+          14,
+          "N/A",
+          14,
+          20,
+          18
+        ],
+        "languages": "Understands Common and Elvish but can't speak",
+        "saves": [
+          {
+            "charisma": 7
+          },
+          {
+            "dexterity": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "arcana": 7
+          },
+          {
+            "insight": 8
+          },
+          {
+            "perception": 8
+          },
+          {
+            "stealth": 8
+          }
+        ],
+        "cr": 5,
+        "traits": [
+          {
+            "name": "Non-corporeal",
+            "desc": "The Sandman cannot be harmed, and can only be killed permantantly when Summer Night dies or wakes; successful attacks against The Sandman instead slow him down and he automatically suceeds any Constitution saving throw."
+          },
+          {
+            "name": "Creature of Dreams",
+            "desc": "The Sandman is invisible to all creatures with their eyes open. He can be briefly seen when blinking."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Weave Dreams",
+            "desc": "The Sandman can warp the reality of Hotel Midsummer to add or remove environmental obstacles."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {

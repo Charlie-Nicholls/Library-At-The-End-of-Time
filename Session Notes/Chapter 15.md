@@ -2,7 +2,7 @@
 type: notes
 date: 2025-09-15
 displayLink: "[[Chapter 15]]"
-alias: "TBD"
+alias: "We Have A Nightmare"
 chapter: 15
 ---
 

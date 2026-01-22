@@ -2,7 +2,7 @@
 type: notes
 date: 2025-09-01
 displayLink: "[[Chapter 14]]"
-alias: "The Rissotto Room"
+alias: "We Find The Rissotto Room"
 chapter: 14
 ---
 
